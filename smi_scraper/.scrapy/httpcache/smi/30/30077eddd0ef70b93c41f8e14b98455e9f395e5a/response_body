@@ -1,0 +1,53 @@
+{
+    "data": [
+        {
+            "news_url": "https://www.foxbusiness.com/markets/apple-google-meta-targeted-eus-first-digital-markets-act-probes",
+            "image_url": "https://cdn.snapi.dev/images/v1/p/7/gettyimages-1579872617-copy-2340611.jpg",
+            "title": "Apple, Google, Meta targeted in EU's first Digital Markets Act investigations",
+            "text": "The Big Tech trio of Apple, Google and Meta is facing an investigation from European Union antitrust regulators under newly implemented provisions of the Digital Markets Act.",
+            "source_name": "Fox Business",
+            "date": "Mon, 25 Mar 2024 15:55:43 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "AAPL",
+                "GOOG",
+                "GOOGL",
+                "META"
+            ]
+        },
+        {
+            "news_url": "https://www.youtube.com/watch?v=HcHxlzz22Us",
+            "image_url": "https://cdn.snapi.dev/images/v1/2/w/analysis-of-justice-departments-lawsuit-against-apple-2340602.jpg",
+            "title": "Analysis of Justice Department's Lawsuit Against Apple",
+            "text": "John Bergmayer, legal director at Public Knowledge, discusses the Department of Justice's antitrust allegations filed against Apple after a five-year investigation. He speaks with Ed Ludlow on \"Bloomberg Technology.",
+            "source_name": "Bloomberg Technology",
+            "date": "Mon, 25 Mar 2024 15:38:39 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Video",
+            "tickers": [
+                "AAPL"
+            ]
+        },
+        {
+            "news_url": "https://www.proactiveinvestors.com/companies/news/1043929?SNAPI",
+            "image_url": "https://cdn.snapi.dev/images/v1/u/r/shutterstock-144159337-2340575.jpg",
+            "title": "Apple CEO's China visit lays groundwork for iPhone maker's future in the country",
+            "text": "Apple Inc (NASDAQ:AAPL, ETR:APC) is doubling down on its China strategy at a key moment for the iPhone maker with\u00a0CEO Tim Cook's visit, analysts at Wedbush believe. \u201cThe narrative around Apple and [CEO Tim] Cook over the past year has been around diversifying the supply chain outside of China with geopolitical tensions the black cloud over [Apple headquarters] Cupertino,\u201d they wrote.",
+            "source_name": "Proactive Investors",
+            "date": "Mon, 25 Mar 2024 15:26:18 -0400",
+            "topics": [
+                "CEO",
+                "product"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AAPL"
+            ]
+        }
+    ],
+    "total_pages": 3334
+}

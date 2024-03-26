@@ -1,0 +1,19 @@
+Date: Mon, 25 Mar 2024 23:14:48 GMT
+Content-Type: text/html; charset=utf-8
+X-Segment: True
+Link: <https://cdn.cookielaw.org/>; rel="connect", <https://googleads.g.doubleclick.net>; rel="preconnect", <https://g.foolcdn.com>; rel="preconnect", <https://cdn.userway.org>; rel="preconnect", <https://m.foolcdn.com>; rel="preconnect"
+Content-Security-Policy: img-src 'self' data: https: https://g.foolcdn.com https://optimize.google.com https://www.google-analytics.com; upgrade-insecure-requests; connect-src 'self' https: wss://www.fool.com wss://*.33across.com wss://*.hotjar.com https://api.pink-boat.fool.com; default-src 'self' data: blob: 'unsafe-inline' 'unsafe-eval' https:; style-src 'self' data: 'unsafe-inline' https: http://fonts.googleapis.com https://fonts.googleapis.com https://optimize.google.com; media-src 'self' https: blob:; frame-src 'self' https: https://optimize.google.com; script-src 'self' blob: 'unsafe-inline' 'unsafe-eval' https://www.google-analytics.com https://optimize.google.com https: https://evs.pink-boat.fool.com; font-src 'self' data: https: https://fonts.gstatic.com
+X-Frame-Options: DENY
+Vary: Cookie, Accept-Encoding
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+Cross-Origin-Opener-Policy: same-origin
+Set-Cookie: Visitor="uid=&username=&account=&registered=false&ecapped=false&dskPrf=false&version=7&visits=0&visitor=3ae3740e-145b-4145-aedc-0d90395ec8e0"; Domain=.fool.com; expires=Thu, 23 Mar 2034 23:14:48 GMT; Max-Age=315360000; Path=/; SameSite=Lax
+Set-Cookie: sessionid=3csujg7c92rdwzxest7iw1vc6rnmkr9x; expires=Tue, 26 Mar 2024 00:14:48 GMT; HttpOnly; Max-Age=3600; Path=/; SameSite=Lax; Secure
+Cookie-Counter: 0
+Cf-Cache-Status: DYNAMIC
+Strict-Transport-Security: max-age=15552000
+Server: cloudflare
+Cf-Ray: 86a2996e6dbf5c47-AMS
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

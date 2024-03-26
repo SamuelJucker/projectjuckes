@@ -1,0 +1,21 @@
+Content-Type: text/html
+Date: Sun, 24 Mar 2024 21:28:34 GMT
+Server: ATS
+Content-Encoding: gzip
+Vary: Accept-Encoding,X-Failsafe-Cache
+X-Cache: Error from cloudfront
+X-Amz-Cf-Pop: DUB2-C1
+X-Amz-Cf-Id: t7KE2U2gFII_25c4-wBoymFzxiRQQN640okBn_evMMyqwIitiggK7Q==
+Age: 4
+Strict-Transport-Security: max-age=31536000
+Expires: -1
+Cache-Control: max-age=0, private
+Content-Security-Policy: frame-ancestors 'self' https://*.builtbygirls.com https://*.rivals.com https://*.engadget.com https://*.intheknow.com https://*.autoblog.com https://*.techcrunch.com https://*.yahoo.com https://*.aol.com https://*.huffingtonpost.com https://*.oath.com https://*.search.yahoo.com https://*.pnr.ouryahoo.com https://pnr.ouryahoo.com https://*.search.aol.com https://*.search.huffpost.com https://*.onesearch.com https://*.verizonmedia.com https://*.publishing.oath.com https://*.autoblog.com; sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation; report-uri https://csp.yahoo.com/beacon/csp?src=ats&site=finance&region=US&lang=en-US&device=desktop&yrid=1mimgd1j016o2&partner=;
+Referrer-Policy: no-referrer-when-downgrade
+X-Frame-Options: SAMEORIGIN
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Set-Cookie: A1=d=AQABBAKbAGYCEFzprD-HcgmomFxEkqFpbvIFEgEBAQHsAWYKZrtZ0CMA_eMAAA&S=AQAAAktStyi-hiapkDM0dqkpNWQ; Expires=Tue, 25 Mar 2025 03:28:35 GMT; Max-Age=31557600; Domain=.yahoo.com; Path=/; SameSite=Lax; Secure; HttpOnly
+Set-Cookie: A3=d=AQABBAKbAGYCEFzprD-HcgmomFxEkqFpbvIFEgEBAQHsAWYKZrtZ0CMA_eMAAA&S=AQAAAktStyi-hiapkDM0dqkpNWQ; Expires=Tue, 25 Mar 2025 03:28:35 GMT; Max-Age=31557600; Domain=.yahoo.com; Path=/; SameSite=None; Secure; HttpOnly
+Set-Cookie: A1S=d=AQABBAKbAGYCEFzprD-HcgmomFxEkqFpbvIFEgEBAQHsAWYKZrtZ0CMA_eMAAA&S=AQAAAktStyi-hiapkDM0dqkpNWQ; Domain=.yahoo.com; Path=/; SameSite=Lax; Secure

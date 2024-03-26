@@ -1,0 +1,22 @@
+Content-Length: 320
+X-Amz-Id-2: Ol39etSfqKMZcz46OdVXW2zWV98fxUid/yzv5b+EmfcA39pjAbv8tcP6gr6xG6aSfUjor3ML9J8=
+X-Amz-Request-Id: 0MAWZZ1DMFFDK3C0
+Date: Sun, 24 Mar 2024 21:26:14 GMT
+Last-Modified: Mon, 11 Mar 2024 23:07:55 GMT
+X-Amz-Server-Side-Encryption: AES256
+Cache-Control: public, max-age=3600
+Accept-Ranges: bytes
+Content-Type: text/plain
+Server: ATS
+Referrer-Policy: no-referrer-when-downgrade
+Vary: Origin, Accept-Encoding
+Ats-Carp-Promotion: 1
+Content-Encoding: gzip
+Strict-Transport-Security: max-age=31536000
+Content-Security-Policy: frame-ancestors 'self' https://*.builtbygirls.com https://*.rivals.com https://*.engadget.com https://*.intheknow.com https://*.autoblog.com https://*.techcrunch.com https://*.yahoo.com https://*.aol.com https://*.huffingtonpost.com https://*.oath.com https://*.search.yahoo.com https://*.pnr.ouryahoo.com https://pnr.ouryahoo.com https://*.search.aol.com https://*.search.huffpost.com https://*.onesearch.com https://*.verizonmedia.com https://*.publishing.oath.com https://*.autoblog.com; sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation; report-uri https://csp.yahoo.com/beacon/csp?src=ats&site=finance&region=US&lang=en-US&device=desktop&yrid=3f5cq4dj016jm&partner=;
+X-Frame-Options: SAMEORIGIN
+Etag: "2272e884175bb0797858fc22ab5bf1df-df"
+Age: 52
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff

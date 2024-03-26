@@ -1,0 +1,50 @@
+{
+    "data": [
+        {
+            "news_url": "https://www.youtube.com/watch?v=34CkwUhjNQM",
+            "image_url": "https://cdn.snapi.dev/images/v1/c/o/ev-makers-in-trouble-mizuho-downgrades-tesla-nio-on-slow-demand-2340810.jpg",
+            "title": "EV-makers in trouble? Mizuho downgrades Tesla, Nio on slow demand",
+            "text": "Mizuho has downgraded its ratings for Tesla (TSLA), Rivian (RIVN), and Nio (NIO) from Buy to Neutral, citing slowing demand for electric vehicles, particularly in China. The investment bank also mentioned high inventory levels as potential headwinds.",
+            "source_name": "Yahoo Finance",
+            "date": "Mon, 25 Mar 2024 17:45:00 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Video",
+            "tickers": [
+                "NIO",
+                "TSLA"
+            ]
+        },
+        {
+            "news_url": "https://www.fool.com/investing/2024/03/25/where-will-tesla-stock-be-in-2030/",
+            "image_url": "https://cdn.snapi.dev/images/v1/e/l/podc6-2340806.jpg",
+            "title": "Where Will Tesla Stock Be in 2030?",
+            "text": "Tesla is poised to benefit as the world adopts electric vehicles in more significant quantities.",
+            "source_name": "The Motley Fool",
+            "date": "Mon, 25 Mar 2024 17:43:49 -0400",
+            "topics": [
+                "podcast"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "TSLA"
+            ]
+        },
+        {
+            "news_url": "https://www.fool.com/investing/2024/03/25/tesla-stock-upside-now-wall-street-analyst/",
+            "image_url": "https://cdn.snapi.dev/images/v1/l/q/tesla-model-3-blue-driving-2340628.png",
+            "title": "Tesla Stock Has Just 14% Upside Now, According to 1 Wall Street Analyst",
+            "text": "Mizuho cut its rating on Tesla to \"neutral.\" The bank now sees only 14% upside from here, but even that might be generous.",
+            "source_name": "The Motley Fool",
+            "date": "Mon, 25 Mar 2024 16:02:27 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "TSLA"
+            ]
+        }
+    ],
+    "total_pages": 3334
+}

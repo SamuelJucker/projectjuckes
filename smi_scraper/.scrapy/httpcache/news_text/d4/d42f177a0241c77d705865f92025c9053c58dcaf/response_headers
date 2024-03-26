@@ -1,0 +1,31 @@
+Content-Length: 31748
+X-Download-Options: noopen
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+Content-Encoding: gzip
+Via: 1.1 varnish, 1.1 varnish
+Etag: "22ab0-PoIWqO189DHUpyJDN8AxD4y6rCw"
+X-Xss-Protection: 1; mode=block
+Edge-Cache-Tag: 3e884b9c-05ca-56e7-a0e5-fb320059ecb0
+X-Dns-Prefetch-Control: off
+X-Content-Type-Options: nosniff
+X-Debug-Backend: origin_www
+X-Original-Url: /markets/apple-google-meta-targeted-eus-first-digital-markets-act-probes
+X-Bereq-Url: /markets/apple-google-meta-targeted-eus-first-digital-markets-act-probes
+Cache-Control: max-age=1800, public
+Accept-Ranges: bytes
+Date: Mon, 25 Mar 2024 23:10:14 GMT
+Age: 0
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET,POST,HEAD,OPTIONS
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Credentials: false
+Access-Control-Max-Age: 86400
+Accept-Ch: Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version, Sec-CH-UA, Sec-CH-UA-Arch, Sec-CH-UA-Bitness
+Permissions-Policy: ch-ua-model=*,ch-ua-platform-version=*,ch-ua=*,ch-ua-mobile=*,ch-ua-platform=*,ch-ua-full-version-list=*,ch-ua-arch=*,ch-ua-bitness=*,ch-ua-model=*
+X-Served-By: cache-ams21079-AMS, cache-ams21052-AMS
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1711408213.435563,VS0,VE841
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=300

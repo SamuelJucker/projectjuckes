@@ -1,0 +1,23 @@
+Content-Length: 916749
+Content-Type: text/html; charset=utf-8
+Date: Sun, 24 Mar 2024 21:23:43 GMT
+X-Amz-Server-Side-Encryption: AES256
+Cache-Control: max-age=0, private
+Content-Encoding: gzip
+Server: ATS
+Vary: X-Failsafe-Cache
+X-Cache: Hit from cloudfront
+X-Amz-Cf-Pop: DUB2-C1
+X-Amz-Cf-Id: 4d9PABF2AFY5u2ya4NaWBZxXGXj_Pe_A3nJn2bfh_B8E7IfOxTcWlg==
+Age: 228
+Strict-Transport-Security: max-age=31536000
+Expires: -1
+Content-Security-Policy: frame-ancestors 'self' https://*.builtbygirls.com https://*.rivals.com https://*.engadget.com https://*.intheknow.com https://*.autoblog.com https://*.techcrunch.com https://*.yahoo.com https://*.aol.com https://*.huffingtonpost.com https://*.oath.com https://*.search.yahoo.com https://*.pnr.ouryahoo.com https://pnr.ouryahoo.com https://*.search.aol.com https://*.search.huffpost.com https://*.onesearch.com https://*.verizonmedia.com https://*.publishing.oath.com https://*.autoblog.com; sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation; report-uri https://csp.yahoo.com/beacon/csp?src=ats&site=finance&region=US&lang=en-US&device=desktop&yrid=4pkc6opj016m1&partner=;
+Referrer-Policy: no-referrer-when-downgrade
+X-Frame-Options: SAMEORIGIN
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Set-Cookie: A1=d=AQABBMGaAGYCECYCwVLJsnKhPE-rw5SvFegFEgEBAQHsAWYKZrtZ0CMA_eMAAA&S=AQAAAlIksOah3LBTDbFYkOFO47M; Expires=Tue, 25 Mar 2025 03:27:29 GMT; Max-Age=31557600; Domain=.yahoo.com; Path=/; SameSite=Lax; Secure; HttpOnly
+Set-Cookie: A3=d=AQABBMGaAGYCECYCwVLJsnKhPE-rw5SvFegFEgEBAQHsAWYKZrtZ0CMA_eMAAA&S=AQAAAlIksOah3LBTDbFYkOFO47M; Expires=Tue, 25 Mar 2025 03:27:29 GMT; Max-Age=31557600; Domain=.yahoo.com; Path=/; SameSite=None; Secure; HttpOnly
+Set-Cookie: A1S=d=AQABBMGaAGYCECYCwVLJsnKhPE-rw5SvFegFEgEBAQHsAWYKZrtZ0CMA_eMAAA&S=AQAAAlIksOah3LBTDbFYkOFO47M; Domain=.yahoo.com; Path=/; SameSite=Lax; Secure

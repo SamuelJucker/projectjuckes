@@ -1,0 +1,26 @@
+Content-Length: 432
+Content-Type: text/plain; charset=utf-8
+Server: openresty
+Content-Encoding: gzip
+X-Arc-Pb-Request-Id: 7a1f287a-2291-4035-92f3-370716f57509
+X-Arc-Pb-Request-Id: 073756e0-6a84-4d28-92f4-ae8a8f1af511
+Etag: W/"50e-1307jkiJK3/bXNhOlehk+KQl3yk"
+Last-Modified: Sun, 24 Mar 2024 21:25:45 GMT
+X-Amz-Cf-Pop: ORD58-P4
+X-Amz-Cf-Pop: ZRH50-C1
+Cache-Control: private, max-age=39
+Expires: Sun, 24 Mar 2024 21:27:45 GMT
+Date: Sun, 24 Mar 2024 21:27:06 GMT
+Set-Cookie: reuters-geo={"country":"-", "region":"-"}; path=/; secure
+Server-Timing: cdn-cache; desc=HIT
+Server-Timing: edge; dur=1
+Server-Timing: ak_p; desc="1711315626622_389360327_1249922505_326_7846_1_0_-";dur=1
+Strict-Transport-Security: max-age=31536000
+X-Arc-Request-Id: 0.c72a3517.1711315626.4a804dc9
+Akamai-True-Ttl: 120
+Vary: Accept-Encoding
+X-Cache: Miss from cloudfront
+Via: 1.1 449f2b51e83bf8ba5fa5e65ce60bc276.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: 5929_Th5D0qDa-n-GLZ0iU_MO7ZOlBej4RjH0LR_ah28VeRWa82y1g==
+Content-Security-Policy: frame-ancestors 'self'; report-uri https://reuters.report-uri.com/r/t/csp/enforce; report-to report-uri
+Report-To: {"endpoints":[{"url":"https://reuters.report-uri.com/a/t/g"}],"group":"report-uri","include_subdomains":true,"max_age":31536000}
