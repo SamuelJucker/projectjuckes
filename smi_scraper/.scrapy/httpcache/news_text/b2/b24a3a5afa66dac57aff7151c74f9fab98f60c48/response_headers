@@ -1,0 +1,21 @@
+Content-Length: 18050
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Xss-Protection: 1; mode=block
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Frame-Options: SAMEORIGIN
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self'
+Content-Security-Policy: frame-ancestors 'self'
+Content-Security-Policy: frame-ancestors 'self'
+Referrer-Policy: no-referrer-when-downgrade
+Referrer-Policy: no-referrer-when-downgrade
+Pragma: no-cache
+Svr: 4
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+Cache-Control: public, max-age=0, s-maxage=300000
+Expires: Tue, 26 Mar 2024 01:51:23 GMT
+Date: Tue, 26 Mar 2024 01:51:23 GMT
+Vary: Accept-Encoding

@@ -1,0 +1,50 @@
+{
+    "data": [
+        {
+            "news_url": "https://www.zacks.com/stock/news/2245177/honeywell-international-inc-hon-registers-a-bigger-fall-than-the-market-important-facts-to-note?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_6v1-2245177",
+            "image_url": "https://cdn.snapi.dev/images/v1/t/j/default9-2338342.jpg",
+            "title": "Honeywell International Inc. (HON) Registers a Bigger Fall Than the Market: Important Facts to Note",
+            "text": "Honeywell International Inc. (HON) reachead $200.73 at the closing of the latest trading day, reflecting a -0.32% change compared to its last close.",
+            "source_name": "Zacks Investment Research",
+            "date": "Fri, 22 Mar 2024 18:56:20 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "HON"
+            ]
+        },
+        {
+            "news_url": "https://stockmarket.com/featured/2-quantum-computing-stocks-to-watch-in-mid-march-2024-2024-03-21",
+            "image_url": "https://cdn.snapi.dev/images/v1/g/g/quantum-computing-stocks-to-bu-2336429.jpg",
+            "title": "2 Quantum Computing Stocks To Watch In Mid-March 2024",
+            "text": "Here are two quantum computing stocks to watch in the stock market right now.",
+            "source_name": "Stockmarketcom",
+            "date": "Thu, 21 Mar 2024 17:01:51 -0400",
+            "topics": [
+                "StocksToWatch"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "HON",
+                "IONQ"
+            ]
+        },
+        {
+            "news_url": "https://www.zacks.com/stock/news/2243751/honeywell-international-inc-hon-surpasses-market-returns-some-facts-worth-knowing?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_6v2-2243751",
+            "image_url": "https://cdn.snapi.dev/images/v1/7/q/default9-2334347.jpg",
+            "title": "Honeywell International Inc. (HON) Surpasses Market Returns: Some Facts Worth Knowing",
+            "text": "In the latest trading session, Honeywell International Inc. (HON) closed at $201.18, marking a +1.08% move from the previous day.",
+            "source_name": "Zacks Investment Research",
+            "date": "Wed, 20 Mar 2024 19:06:09 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "HON"
+            ]
+        }
+    ],
+    "total_pages": 506
+}

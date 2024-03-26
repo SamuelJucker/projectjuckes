@@ -1,0 +1,15 @@
+Content-Type: text/plain
+X-Amz-Replication-Status: COMPLETED
+Last-Modified: Tue, 12 Mar 2024 19:19:51 GMT
+X-Amz-Server-Side-Encryption: AES256
+X-Amz-Version-Id: PBw6IZ1vxpptkl9i3HTxobc1.jxlzpV0
+Server: AmazonS3
+Content-Encoding: gzip
+Date: Mon, 25 Mar 2024 04:13:06 GMT
+Etag: W/"1e6dc339ca8a8912767376e82c9db7d6"
+Vary: Accept-Encoding
+X-Cache: Hit from cloudfront
+Via: 1.1 9568a708c8ab21597698ebe7dce6c42e.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: FRA2-C1
+X-Amz-Cf-Id: RPx2u93GwVpuTAq30D9G_Ry3P883lug-nfntUnV8JaGbRKQy4PViNQ==
+Age: 79374

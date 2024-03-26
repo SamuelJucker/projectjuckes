@@ -1,0 +1,57 @@
+{
+    "data": [
+        {
+            "news_url": "https://investorplace.com/2024/03/3-cheap-bank-stocks-youll-regret-not-buying-in-2024/",
+            "image_url": "https://cdn.snapi.dev/images/v1/b/s/banks1600-2340433.jpg",
+            "title": "3 Cheap Bank Stocks You'll Regret Not Buying in 2024",
+            "text": "The banking sector is a cornerstone of a healthy economy, and cheap bank stocks present an enticing opportunity for discerning investors. However, with numerous players in the field, choosing the right ones for your portfolio requires careful consideration.",
+            "source_name": "InvestorPlace",
+            "date": "Mon, 25 Mar 2024 13:12:29 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BAC",
+                "GS",
+                "JPM"
+            ]
+        },
+        {
+            "news_url": "https://www.zacks.com/stock/news/2245178/goldman-sachs-gs-declines-more-than-market-some-information-for-investors?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_6v1-2245178",
+            "image_url": "https://cdn.snapi.dev/images/v1/d/r/default10-2338341.jpg",
+            "title": "Goldman Sachs (GS) Declines More Than Market: Some Information for Investors",
+            "text": "In the latest trading session, Goldman Sachs (GS) closed at $406.82, marking a -1.67% move from the previous day.",
+            "source_name": "Zacks Investment Research",
+            "date": "Fri, 22 Mar 2024 18:56:19 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "GS"
+            ]
+        },
+        {
+            "news_url": "https://www.barrons.com/articles/bank-stocks-interest-rates-124e7ff2",
+            "image_url": "https://cdn.snapi.dev/images/v1/d/m/default323-2223381-2331755.jpg",
+            "title": "Bank Stocks Are Hurting. Lower Rates Will Give Them a Lift Later This Year.",
+            "text": "Oppenheimer concludes there is a 25% upside, on average, for big banks like Bank of America or Citigroup.",
+            "source_name": "Barrons",
+            "date": "Tue, 19 Mar 2024 15:33:00 -0400",
+            "topics": [
+                "paywall"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BAC",
+                "C",
+                "GS",
+                "JEF",
+                "JPM",
+                "MS",
+                "WFC"
+            ]
+        }
+    ],
+    "total_pages": 1603
+}

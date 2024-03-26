@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "news_url": "https://www.youtube.com/watch?v=fI19vhCqajc",
+            "image_url": "https://cdn.snapi.dev/images/v1/b/i/foot-locker-upgraded-mcdonalds-downgraded-rivian-downgraded-on-slowing-ev-demand-top-calls-2340593.jpg",
+            "title": "Foot Locker Upgraded, McDonald's Downgraded, Rivian Downgraded on Slowing EV Demand | Top Calls",
+            "text": "Top calls today are Foot Locker Upgraded, McDonald's Downgraded, Rivian Downgraded on Slowing EV Demand.",
+            "source_name": "Bloomberg Markets and Finance",
+            "date": "Mon, 25 Mar 2024 15:31:23 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Video",
+            "tickers": [
+                "FL",
+                "MCD",
+                "RIVN"
+            ]
+        },
+        {
+            "news_url": "https://www.businesswire.com/news/home/20240325692348/en/NielsenIQ-BASES-Collaborates-with-McDonald%E2%80%99s-USA-to-Introduce-Cultural-Resonance-Module---Transforming-Inclusive-Advertising-Testing/",
+            "image_url": "https://cdn.snapi.dev/images/v1/a/g/press17-2339823.jpg",
+            "title": "NielsenIQ BASES Collaborates with McDonald's USA to Introduce Cultural Resonance Module - Transforming Inclusive Advertising Testing",
+            "text": "CHICAGO--(BUSINESS WIRE)--NIQ, a global leader in consumer intelligence, proudly announces the integration of its new, industry-leading NIQ BASES Cultural Resonance module into BASES renowned ad testing portfolio, built in thought-partnership with McDonald's USA. This module offers a validated set of cultural resonance metrics, to guide creative optimization discussions to help marketers produce more impactful and inclusive advertising. This add-on assesses the role of cultural factors in ads,.",
+            "source_name": "Business Wire",
+            "date": "Mon, 25 Mar 2024 09:01:00 -0400",
+            "topics": [
+                "PressRelease"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "MCD"
+            ]
+        },
+        {
+            "news_url": "https://www.investors.com/etfs-and-funds/sectors/dow-jones-40000-sp500-is-coming-any-day-now-thanks-stocks-analysts-say/",
+            "image_url": "https://cdn.snapi.dev/images/v1/c/p/im-314714width620size152562574-2339603.jpg",
+            "title": "Dow 40,000 Is Coming Any Day Now Thanks To 8 Stocks, Analysts Say",
+            "text": "Dow Jones 40,000 is a milestone investors have eyed for years. But now a handful of stocks are posed to make it a reality.",
+            "source_name": "Investors Business Daily",
+            "date": "Mon, 25 Mar 2024 08:00:11 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AAPL",
+                "AMGN",
+                "AMZN",
+                "BA",
+                "CRM",
+                "MCD",
+                "MSFT",
+                "UNH"
+            ]
+        }
+    ],
+    "total_pages": 1210
+}

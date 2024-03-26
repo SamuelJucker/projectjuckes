@@ -1,0 +1,68 @@
+{
+    "data": [
+        {
+            "news_url": "https://www.zacks.com/stock/news/2245655/ibm-ibm-suffers-a-larger-drop-than-the-general-market-key-insights?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_6-2245655",
+            "image_url": "https://cdn.snapi.dev/images/v1/z/y/default27-2340864.jpg",
+            "title": "IBM (IBM) Suffers a Larger Drop Than the General Market: Key Insights",
+            "text": "In the latest trading session, IBM (IBM) closed at $188.79, marking a -1.07% move from the previous day.",
+            "source_name": "Zacks Investment Research",
+            "date": "Mon, 25 Mar 2024 18:51:08 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "IBM"
+            ]
+        },
+        {
+            "news_url": "https://seekingalpha.com/article/4680334-4-fortune-500-industry-leaders-boast-ideal-march-dividends",
+            "image_url": "https://cdn.snapi.dev/images/v1/i/m/image-95520783-2340759.jpg",
+            "title": "4 Fortune 500 Industry Leaders Boast Ideal March Dividends",
+            "text": "The Summer 2023 edition of Fortune Magazine revealed 500 biggest U.S. companies by-revenue. Dogcatcher's quest to sniff out the best dividend buys focused on 68 industry leaders, or IL, using YCharts 3/22/24 data. Those 68 industry leaders were segmented into 21 business sectors, ranging (alphabetically) from apparel to wholesalers. 3 of the 68 were private or foreign-exchange-listed firms not tracked by YCharts, leaving 65 listed. 58 dividend yielding stocks led those 68 industry leaders and ranged 0.14% to 8.10% in annual yield and ranged -11.57% to 22.59% in broker-estimated one-year target-price upsides.",
+            "source_name": "Seeking Alpha",
+            "date": "Mon, 25 Mar 2024 16:14:12 -0400",
+            "topics": [
+                "dividend",
+                "paylimitwall"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BKR",
+                "COP",
+                "CVS",
+                "DOW",
+                "ET",
+                "F",
+                "IBM",
+                "MAN",
+                "MET",
+                "PFE",
+                "PM",
+                "SBUX",
+                "SO",
+                "UPS",
+                "VZ",
+                "XOM"
+            ]
+        },
+        {
+            "news_url": "https://www.youtube.com/watch?v=wTwFJ90rPb8",
+            "image_url": "https://cdn.snapi.dev/images/v1/n/q/calls-of-the-day-disney-netflix-citigroup-accenture-and-ibm-2340456.jpg",
+            "title": "Calls of the Day: Disney, Netflix, Citigroup, Accenture and IBM",
+            "text": "The Investment Committee discuss the latest calls of the day.",
+            "source_name": "CNBC Television",
+            "date": "Mon, 25 Mar 2024 13:24:45 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Video",
+            "tickers": [
+                "ACN",
+                "DIS",
+                "IBM",
+                "NFLX"
+            ]
+        }
+    ],
+    "total_pages": 1320
+}

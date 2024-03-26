@@ -1,0 +1,23 @@
+Content-Length: 0
+Date: Tue, 26 Mar 2024 01:51:30 GMT
+Server: Apache
+Set-Cookie: PHPSESSID=06hgsi3fuquhihephgbgf97v4j; path=/; secure; HttpOnly
+Set-Cookie: user_session=6c7e406e571a89d7de7d46a57ed4d65d; expires=Tue, 02-Apr-2024 01:51:30 GMT; Max-Age=604800; path=/; domain=www.zacks.com; secure
+Set-Cookie: visid_incap_2944342=ozB6FpWTTT+ZEZHdksZscSEqAmYAAAAAQUIPAAAAAAC7mNN8OP5KvOyhbJx2n9+M; expires=Tue, 25 Mar 2025 22:20:37 GMT; HttpOnly; path=/; Domain=.zacks.com; Secure; SameSite=None
+Set-Cookie: incap_ses_1686_2944342=f3ymXBRgsQhtw4/dHOBlFyEqAmYAAAAALKWYARsW70V6xaCvKFhFXg==; path=/; Domain=.zacks.com; Secure; SameSite=None
+Expires: Mon, 25 Mar 2024 20:52:02 -0500
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Surrogate-Key: article-data
+Last-Modified: Mon, 25 Mar 2024 20:51:02 -0500
+Location: https://www.zacks.com/stock/news/2237830/alcons-alc-vivity-edof-iol-achieves-one-million-milestone?cid=CS-STOCKNEWSAPI-FT-analyst_blog%7Ccompany_news_-_medical_sector-2237830
+Server-Id: zacks-cde-2
+Content-Type: text/html; charset=UTF-8
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=63072000;
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src https:; script-src blob: https: 'unsafe-eval' 'unsafe-inline';media-src blob: https:; worker-src blob: https://*.zacks.com; style-src https: 'unsafe-inline'; img-src https: data: 'self'; frame-ancestors 'self' zacks.com *.zacks.com;
+Referrer-Policy: no-referrer-when-downgrade
+X-Cdn: Imperva
+X-Iinfo: 51-6076065-6076099 NNNY CT(103 103 0) RT(1711417881764 7452) q(0 0 0 -1) r(2 2) U11

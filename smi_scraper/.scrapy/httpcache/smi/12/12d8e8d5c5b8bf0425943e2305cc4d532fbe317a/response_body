@@ -1,0 +1,56 @@
+{
+    "data": [
+        {
+            "news_url": "https://www.businesswire.com/news/home/20240222448828/en/Rogers-Corporation-Announces-New-Factory-in-Monterrey-Mexico/",
+            "image_url": "https://cdn.snapi.dev/images/v1/w/o/press15-2288457.jpg",
+            "title": "Rogers Corporation Announces New Factory in Monterrey, Mexico",
+            "text": "CHANDLER, Ariz.--(BUSINESS WIRE)--Rogers Corporation (NYSE: ROG) announced today that it has signed a lease on a factory in Monterrey, Mexico for advanced busbar manufacturing and engineering services. The first phase of the new site is slated for completion in late 2024 and continues Rogers' manufacturing footprint strategy of supporting customers in the regions where they operate. Rogers' advanced ROLINX\u00ae busbars provide effective and efficient power distribution in a variety of applications.",
+            "source_name": "Business Wire",
+            "date": "Thu, 22 Feb 2024 08:30:00 -0500",
+            "topics": [
+                "PressRelease"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "ROG"
+            ]
+        },
+        {
+            "news_url": "https://seekingalpha.com/article/4672233-rogers-corporation-rog-q4-2023-earnings-call-transcript",
+            "image_url": "https://cdn.snapi.dev/images/v1/t/r/transcript46-2287727.jpg",
+            "title": "Rogers Corporation (ROG) Q4 2023 Earnings Call Transcript",
+            "text": "Rogers Corporation (ROG) Q4 2023 Earnings Call Transcript",
+            "source_name": "Seeking Alpha",
+            "date": "Wed, 21 Feb 2024 23:06:03 -0500",
+            "topics": [
+                "earnings",
+                "CallScript",
+                "paylimitwall"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "ROG"
+            ]
+        },
+        {
+            "news_url": "https://www.businesswire.com/news/home/20240221317646/en/Rogers-Corporation-Reports-Fourth-Quarter-and-Full-Year-2023-Results/",
+            "image_url": "https://cdn.snapi.dev/images/v1/p/r/press8-2287242.jpg",
+            "title": "Rogers Corporation Reports Fourth Quarter and Full Year 2023 Results",
+            "text": "CHANDLER, Ariz.--(BUSINESS WIRE)--Q4/Year-End 2023 Earnings Release.",
+            "source_name": "Business Wire",
+            "date": "Wed, 21 Feb 2024 16:05:00 -0500",
+            "topics": [
+                "earnings",
+                "PressRelease"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "ROG"
+            ]
+        }
+    ],
+    "total_pages": 47
+}

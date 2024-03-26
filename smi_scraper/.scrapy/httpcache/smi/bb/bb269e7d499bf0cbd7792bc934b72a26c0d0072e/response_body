@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "news_url": "https://www.youtube.com/watch?v=TbuzBZoOlhI",
+            "image_url": "https://cdn.snapi.dev/images/v1/u/t/joules-quint-tatro-says-to-bail-on-nike-stock-heres-why-2340508.jpg",
+            "title": "Joule's Quint Tatro says to bail on Nike stock, here's why",
+            "text": "Quint Tatro, Joule Financial founder and president, joins 'The Exchange' to discuss how to trade General Motors, Whirlpool, Ethan Allen, and Nike.",
+            "source_name": "CNBC Television",
+            "date": "Mon, 25 Mar 2024 14:18:04 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Video",
+            "tickers": [
+                "NKE"
+            ]
+        },
+        {
+            "news_url": "https://www.zacks.com/stock/news/2245372/nike-inc-nke-is-a-trending-stock-facts-to-know-before-betting-on-it?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|most_searched_stocks-2245372",
+            "image_url": "https://cdn.snapi.dev/images/v1/1/g/default20-2339955.jpg",
+            "title": "NIKE, Inc. (NKE) Is a Trending Stock: Facts to Know Before Betting on It",
+            "text": "Zacks.com users have recently been watching NIKE (NKE) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+            "source_name": "Zacks Investment Research",
+            "date": "Mon, 25 Mar 2024 10:06:20 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "NKE"
+            ]
+        },
+        {
+            "news_url": "https://www.accesswire.com/viewarticle.aspx?id=846410&lang=en",
+            "image_url": "https://cdn.snapi.dev/images/v1/t/l/press10-2339435.jpg",
+            "title": "NIKE, Inc. Investigation Ongoing: Contact Levi & Korsinsky About Potential Securities Fraud Allegations - NKE",
+            "text": "NEW YORK, NY / ACCESSWIRE / March 25, 2024 / Levi & Korsinsky notifies investors that it has commenced an investigation of NIKE, Inc. (\"NIKE\") (NYSE:NKE) concerning possible violations of federal securities laws. On December 21, 2023, Nike announced lower than expected sales outlook for the fiscal year 2024, and accordingly lowered its guidance blaming it on macro pressure in China and EMEA and \"lower levels of growth derived from e-commerce.",
+            "source_name": "Accesswire",
+            "date": "Mon, 25 Mar 2024 07:25:00 -0400",
+            "topics": [
+                "PressRelease"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "NKE"
+            ]
+        }
+    ],
+    "total_pages": 1213
+}

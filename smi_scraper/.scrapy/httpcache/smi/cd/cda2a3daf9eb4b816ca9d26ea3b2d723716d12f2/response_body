@@ -1,0 +1,51 @@
+{
+    "data": [
+        {
+            "news_url": "https://www.fool.com/investing/2024/03/24/caterpillar-buy-sell-or-hold/",
+            "image_url": "https://cdn.snapi.dev/images/v1/p/w/m02d20191023t2i1444073945rlynx-2338710.jpg",
+            "title": "Caterpillar: Buy, Sell, or Hold?",
+            "text": "Caterpillar is a top designer and manufacturer of construction, mining, and energy machinery. The business is cyclical, making it vulnerable to fluctuations in the economy.",
+            "source_name": "The Motley Fool",
+            "date": "Sun, 24 Mar 2024 01:05:00 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "CAT"
+            ]
+        },
+        {
+            "news_url": "https://www.fool.com/investing/2024/03/23/3-growth-stocks-that-could-skyrocket-in-2024/",
+            "image_url": "https://cdn.snapi.dev/images/v1/u/r/urlhttps3a2f2fgfoolcdncom2fedi-2338577.jpg",
+            "title": "3 Growth Stocks That Could Skyrocket in 2024",
+            "text": "Chipotle Mexican Grill is a Mexican-themed restaurant chain that is steadily expanding its presence in the U.S. and abroad. Caterpillar is a heavy equipment manufacturer and distributor that is riding on the infrastructure boom to post strong financial results.",
+            "source_name": "The Motley Fool",
+            "date": "Sat, 23 Mar 2024 03:57:00 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "CAT",
+                "CMG",
+                "ULTA"
+            ]
+        },
+        {
+            "news_url": "https://investorplace.com/2024/03/wall-streets-favorite-long-term-stocks-3-names-that-could-make-you-filthy-rich/",
+            "image_url": "https://cdn.snapi.dev/images/v1/u/k/long-term-stocks-2336773.jpg",
+            "title": "Wall Street's Favorite Long-Term Stocks? 3 Names That Could Make You Filthy Rich",
+            "text": "The S&P 500 is up almost 10% this year, as a dovish Fed and tech sector enthusiasm brighten the outlook for all stocks, including some of the favorite long-term stocks that have been ignored amidst the growth stock rally. The stocks picked on this list are all dividend payers.",
+            "source_name": "InvestorPlace",
+            "date": "Thu, 21 Mar 2024 22:14:46 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "CAT",
+                "JNJ",
+                "KO"
+            ]
+        }
+    ],
+    "total_pages": 693
+}

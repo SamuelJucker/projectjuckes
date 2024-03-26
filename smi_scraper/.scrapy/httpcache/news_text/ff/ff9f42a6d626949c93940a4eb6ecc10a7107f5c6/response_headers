@@ -1,0 +1,23 @@
+Content-Length: 0
+Date: Tue, 26 Mar 2024 02:16:43 GMT
+Server: Apache
+Set-Cookie: PHPSESSID=cigokcf0b9eh7d7tlcp77eili4; path=/; secure; HttpOnly
+Set-Cookie: user_session=a3f8050cacec3a0680922cad0aa5091d; expires=Tue, 02-Apr-2024 02:16:43 GMT; Max-Age=604800; path=/; domain=www.zacks.com; secure
+Set-Cookie: visid_incap_2944342=qe8BfVEgSGyyAiwRaOulBQswAmYAAAAAQUIPAAAAAAC7/xVlVdN/51vNWjQlt30R; expires=Tue, 25 Mar 2025 22:20:38 GMT; HttpOnly; path=/; Domain=.zacks.com; Secure; SameSite=None
+Set-Cookie: incap_ses_1686_2944342=jadwW8bUgDjb7p3dHOBlFwswAmYAAAAAxdayJ+Yf+SVoCCym7LLztQ==; path=/; Domain=.zacks.com; Secure; SameSite=None
+Expires: Mon, 25 Mar 2024 21:17:03 -0500
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Surrogate-Key: article-data
+Last-Modified: Mon, 25 Mar 2024 21:16:03 -0500
+Location: https://www.zacks.com/stock/news/2245428/is-it-worth-investing-in-pg-pg-based-on-wall-streets-bullish-views?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis%7Caverage_broker_rating-2245428
+Server-Id: zacks-cde-1
+Content-Type: text/html; charset=UTF-8
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=63072000;
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src https:; script-src blob: https: 'unsafe-eval' 'unsafe-inline';media-src blob: https:; worker-src blob: https://*.zacks.com; style-src https: 'unsafe-inline'; img-src https: data: 'self'; frame-ancestors 'self' zacks.com *.zacks.com;
+Referrer-Policy: no-referrer-when-downgrade
+X-Cdn: Imperva
+X-Iinfo: 61-26761373-26751017 SNNy RT(1711419357868 45088) q(0 0 0 -1) r(1 1) U11

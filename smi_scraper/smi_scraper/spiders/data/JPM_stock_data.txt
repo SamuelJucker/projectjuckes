@@ -1,0 +1,4 @@
+Ticker: JPM
+price: None
+market_cap: 566337863680
+dividend_yield: 0.023599999

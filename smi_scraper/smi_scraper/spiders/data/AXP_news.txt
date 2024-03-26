@@ -1,0 +1,13 @@
+Ticker: AXP
+Title: Amex GBT to Acquire Global Business Travel Solutions Provider CWT
+Link: https://www.pymnts.com/acquisitions/2024/amex-gbt-acquire-global-business-travel-solutions-provider-cwt/?utm_source=snapi
+Timestamp: Mon, 25 Mar 2024 10:37:04 -0400
+
+Title: Where Will American Express Be in 5 Years?
+Link: https://www.fool.com/investing/2024/03/25/where-will-american-express-be-in-5-years/
+Timestamp: Mon, 25 Mar 2024 08:52:00 -0400
+
+Title: Amex GBT to Acquire CWT
+Link: https://www.businesswire.com/news/home/20240325881910/en/Amex-GBT-to-Acquire-CWT/
+Timestamp: Mon, 25 Mar 2024 07:00:00 -0400
+

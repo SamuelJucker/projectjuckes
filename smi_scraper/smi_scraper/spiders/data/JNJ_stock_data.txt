@@ -1,0 +1,4 @@
+Ticker: JNJ
+price: None
+market_cap: 374070870016
+dividend_yield: 0.0307

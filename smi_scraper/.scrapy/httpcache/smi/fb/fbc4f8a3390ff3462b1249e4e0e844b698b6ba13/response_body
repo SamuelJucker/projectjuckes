@@ -1,0 +1,56 @@
+{
+    "data": [
+        {
+            "news_url": "https://www.businesswire.com/news/home/20240325162503/en/Travelers-Honors-2024-Personal-Insurance-Agent-of-the-Year-Winners/",
+            "image_url": "https://cdn.snapi.dev/images/v1/g/q/press14-2339876.jpg",
+            "title": "Travelers Honors 2024 Personal Insurance Agent of the Year Winners",
+            "text": "HARTFORD, Conn.--(BUSINESS WIRE)--The Travelers Companies, Inc. (NYSE: TRV) today announced the recipients of its 2024 Personal Insurance Agent of the Year Award. The honorees were recognized for their excellent customer service, dedication to their communities, commitment to Travelers and long-term profitable growth. \u201cIn the dynamic landscape of insurance, independent agents play an indispensable role in helping customers safeguard the things that matter most to them,\u201d said Michael Klein, Exec.",
+            "source_name": "Business Wire",
+            "date": "Mon, 25 Mar 2024 09:30:00 -0400",
+            "topics": [
+                "PressRelease"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "TRV"
+            ]
+        },
+        {
+            "news_url": "https://www.youtube.com/watch?v=yYDVBkrV6nY",
+            "image_url": "https://cdn.snapi.dev/images/v1/m/q/td-cowens-andrew-kligerman-breaks-down-why-drivers-are-seeing-skyrocketing-car-insurance-rates-2325543.jpg",
+            "title": "TD Cowen's Andrew Kligerman breaks down why drivers are seeing skyrocketing car insurance rates",
+            "text": "Andrew Kligerman, TD Cowen managing director, joins 'Power Lunch' to discuss the increase in auto insurance and how it's impacted consumers.",
+            "source_name": "CNBC Television",
+            "date": "Thu, 14 Mar 2024 17:14:41 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Video",
+            "tickers": [
+                "ALL",
+                "HIG",
+                "LMND",
+                "PGR",
+                "TRV"
+            ]
+        },
+        {
+            "news_url": "https://www.businesswire.com/news/home/20240314265268/en/Travelers-Schedules-Conference-Call-to-Review-First-Quarter-2024-Results/",
+            "image_url": "https://cdn.snapi.dev/images/v1/l/0/conf9-2324355.jpg",
+            "title": "Travelers Schedules Conference Call to Review First Quarter 2024 Results",
+            "text": "NEW YORK--(BUSINESS WIRE)--The Travelers Companies, Inc. (NYSE: TRV) will review its first quarter 2024 results at 9 a.m. ET on Wednesday, April 17, following the release of results earlier that morning. Investors can access the call via webcast at investor.travelers.com and by dialing 888-440-6281 within the United States or 646-960-0218 outside the United States. A slide presentation, statistical supplement and live audio broadcast will be available on the same website. Following the event, r.",
+            "source_name": "Business Wire",
+            "date": "Thu, 14 Mar 2024 09:00:00 -0400",
+            "topics": [
+                "earnings",
+                "Conference"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "TRV"
+            ]
+        }
+    ],
+    "total_pages": 209
+}

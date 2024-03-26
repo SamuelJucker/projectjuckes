@@ -1,0 +1,53 @@
+{
+    "data": [
+        {
+            "news_url": "https://www.zacks.com/stock/news/2245671/jpmorgan-chase-co-jpm-sees-a-more-significant-dip-than-broader-market-some-facts-to-know?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_6-2245671",
+            "image_url": "https://cdn.snapi.dev/images/v1/p/t/default43-2340876.jpg",
+            "title": "JPMorgan Chase & Co. (JPM) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+            "text": "JPMorgan Chase & Co. (JPM) closed at $194.82 in the latest trading session, marking a -0.92% move from the prior day.",
+            "source_name": "Zacks Investment Research",
+            "date": "Mon, 25 Mar 2024 18:51:21 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "JPM"
+            ]
+        },
+        {
+            "news_url": "https://investorplace.com/2024/03/3-cheap-bank-stocks-youll-regret-not-buying-in-2024/",
+            "image_url": "https://cdn.snapi.dev/images/v1/b/s/banks1600-2340433.jpg",
+            "title": "3 Cheap Bank Stocks You'll Regret Not Buying in 2024",
+            "text": "The banking sector is a cornerstone of a healthy economy, and cheap bank stocks present an enticing opportunity for discerning investors. However, with numerous players in the field, choosing the right ones for your portfolio requires careful consideration.",
+            "source_name": "InvestorPlace",
+            "date": "Mon, 25 Mar 2024 13:12:29 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BAC",
+                "GS",
+                "JPM"
+            ]
+        },
+        {
+            "news_url": "https://www.zacks.com/stock/news/2245356/bank-mergers-above-100b-to-be-subjected-to-increased-scrutiny?cid=CS-STOCKNEWSAPI-FT-analyst_blog|industry_focus-2245356",
+            "image_url": "https://cdn.snapi.dev/images/v1/2/b/2622-2339941.jpg",
+            "title": "Bank Mergers Above $100B to be Subjected to Increased Scrutiny",
+            "text": "The FDIC will more closely scrutinize mergers that create banks with more than $100 billion in assets under a proposal that the board approved recently.",
+            "source_name": "Zacks Investment Research",
+            "date": "Mon, 25 Mar 2024 10:06:04 -0400",
+            "topics": [
+                "manda"
+            ],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "JPM",
+                "MCO",
+                "NYCB"
+            ]
+        }
+    ],
+    "total_pages": 2123
+}

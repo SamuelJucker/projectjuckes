@@ -1,0 +1,53 @@
+{
+    "data": [
+        {
+            "news_url": "https://www.zacks.com/stock/news/2245739/time-to-buy-disney-s-dis-stock-for-higher-highs?cid=CS-STOCKNEWSAPI-FT-stocks_in_the_news-2245739",
+            "image_url": "https://cdn.snapi.dev/images/v1/2/l/499-2340976.jpg",
+            "title": "Time to Buy Disney's (DIS) Stock for Higher Highs?",
+            "text": "In a shortened week of trading, Disney's (DIS) stock made headlines on Monday after reaching 52-week highs sparked by an upgrade from analysts at Barclays (BCS).",
+            "source_name": "Zacks Investment Research",
+            "date": "Mon, 25 Mar 2024 20:36:03 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "DIS"
+            ]
+        },
+        {
+            "news_url": "https://www.youtube.com/watch?v=Kfzhd34wigc",
+            "image_url": "https://cdn.snapi.dev/images/v1/i/s/jim-cramer-on-the-shake-ups-at-disney-and-boeing-2340953.jpg",
+            "title": "Jim Cramer on the shake-ups at Disney and Boeing",
+            "text": "CNBC's Jim Cramer breaks down the market reaction to the headlines at Disney and Boeing.",
+            "source_name": "CNBC Television",
+            "date": "Mon, 25 Mar 2024 19:51:52 -0400",
+            "topics": [
+                "cramer",
+                "madmoney"
+            ],
+            "sentiment": "Neutral",
+            "type": "Video",
+            "tickers": [
+                "BA",
+                "DIS"
+            ]
+        },
+        {
+            "news_url": "https://www.fool.com/investing/2024/03/25/disney-is-known-for-blockbuster-movies-but-it-make/",
+            "image_url": "https://cdn.snapi.dev/images/v1/s/k/podc12-2340843.jpg",
+            "title": "Disney Is Known for Blockbuster Movies, but It Makes Most of Its Money Somewhere Else",
+            "text": "Most of Disney's money is made away from the silver screen.",
+            "source_name": "The Motley Fool",
+            "date": "Mon, 25 Mar 2024 18:14:14 -0400",
+            "topics": [
+                "podcast"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "DIS"
+            ]
+        }
+    ],
+    "total_pages": 3334
+}

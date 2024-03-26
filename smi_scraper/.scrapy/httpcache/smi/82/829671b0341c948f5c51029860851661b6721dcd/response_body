@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "news_url": "https://www.pymnts.com/acquisitions/2024/amex-gbt-acquire-global-business-travel-solutions-provider-cwt/?utm_source=snapi",
+            "image_url": "https://cdn.snapi.dev/images/v1/x/h/amex-gbt-american-express-glob-2340062.jpg",
+            "title": "Amex GBT to Acquire Global Business Travel Solutions Provider CWT",
+            "text": "American Express Global Business Travel\u00a0(Amex GBT) agreed to acquire global business travel and meetings solutions provider\u00a0CWT\u00a0for $570 million. The planned\u00a0acquisition\u00a0would offer CWT's 4,000 customers access to the Amex GBT ecosystem and create about $850 million in revenue, the companies said in a Monday (March 25) press release.",
+            "source_name": "PYMNTS",
+            "date": "Mon, 25 Mar 2024 10:37:04 -0400",
+            "topics": [
+                "manda"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AXP"
+            ]
+        },
+        {
+            "news_url": "https://www.fool.com/investing/2024/03/25/where-will-american-express-be-in-5-years/",
+            "image_url": "https://cdn.snapi.dev/images/v1/l/3/urlhttps3a2f2fgfoolcdncom2fedi-2339728.jpg",
+            "title": "Where Will American Express Be in 5 Years?",
+            "text": "Shares have rallied in recent months on impressive fundamentals. American Express will continue drawing in new card members with its top-notch perks and rewards.",
+            "source_name": "The Motley Fool",
+            "date": "Mon, 25 Mar 2024 08:52:00 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AXP"
+            ]
+        },
+        {
+            "news_url": "https://www.businesswire.com/news/home/20240325881910/en/Amex-GBT-to-Acquire-CWT/",
+            "image_url": "https://cdn.snapi.dev/images/v1/s/g/press1-2339342.jpg",
+            "title": "Amex GBT to Acquire CWT",
+            "text": "NEW YORK--(BUSINESS WIRE)--Amex GBT to Acquire CWT.",
+            "source_name": "Business Wire",
+            "date": "Mon, 25 Mar 2024 07:00:00 -0400",
+            "topics": [
+                "manda",
+                "PressRelease"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AXP"
+            ]
+        }
+    ],
+    "total_pages": 672
+}

@@ -1,0 +1,50 @@
+{
+    "data": [
+        {
+            "news_url": "https://www.fool.com/investing/2024/03/25/better-dividend-stock-procter-gamble-vs-walmart/",
+            "image_url": "https://cdn.snapi.dev/images/v1/a/t/urlhttps3a2f2fgfoolcdncom2fedi-2339492.jpg",
+            "title": "Better Dividend Stock: Procter & Gamble vs. Walmart",
+            "text": "Walmart has the edge on growth, but P&G pays a more generous dividend. P&G returns more cash to shareholders through dividends and stock buybacks.",
+            "source_name": "The Motley Fool",
+            "date": "Mon, 25 Mar 2024 07:35:00 -0400",
+            "topics": [
+                "dividend"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "PG",
+                "WMT"
+            ]
+        },
+        {
+            "news_url": "https://www.fool.com/investing/2024/03/25/artificial-intelligence-ai-stock-magnificent-seven/",
+            "image_url": "https://cdn.snapi.dev/images/v1/u/r/urlhttps3a2f2fgfoolcdncom2fedi-2339354.jpg",
+            "title": "Meet a $496 Billion Artificial Intelligence (AI) Stock That's Not in the \"Magnificent Seven\"",
+            "text": "This mega-cap monster is more of an AI stock than meets the eye. It has outperformed members of the Magnificent Seven on multiple fronts.",
+            "source_name": "The Motley Fool",
+            "date": "Mon, 25 Mar 2024 05:50:00 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "WMT"
+            ]
+        },
+        {
+            "news_url": "https://www.fool.com/investing/2024/03/25/3-reasons-to-buy-walmart-stock-no-tomorrow/",
+            "image_url": "https://cdn.snapi.dev/images/v1/r/h/download-1-4-2339037.png",
+            "title": "3 Reasons to Buy Walmart Stock Like There's No Tomorrow",
+            "text": "There's a reason Walmart is the biggest brick-and-mortar name in the business. This old-school retailer is more cutting-edge than most investors may realize.",
+            "source_name": "The Motley Fool",
+            "date": "Mon, 25 Mar 2024 01:05:00 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "WMT"
+            ]
+        }
+    ],
+    "total_pages": 2495
+}

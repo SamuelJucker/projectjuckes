@@ -1,0 +1,4 @@
+Ticker: MSFT
+price: None
+market_cap: 3183645294592
+dividend_yield: 0.0070999996

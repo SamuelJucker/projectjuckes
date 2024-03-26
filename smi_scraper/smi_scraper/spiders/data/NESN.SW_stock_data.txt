@@ -1,2 +1,4 @@
 Ticker: NESN.SW
 price: None
+market_cap: 248369119232
+dividend_yield: 0.0318

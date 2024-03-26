@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "news_url": "https://www.prnewswire.com/news-releases/3m-introduces-a-worlds-first-innovation-to-help-redefine-shipping-and-packaging-302097480.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/w/z/press7-2339767.jpg",
+            "title": "3M introduces a world's first innovation to help redefine shipping and packaging",
+            "text": "First known paper-based product to offer padded protection, curbside recyclability and run on automated packaging machines Up to three times faster than manual packing when paired with qualified automated packaging machines This innovative material uses proprietary padding technology and brings disruptive change to the shipping industry ST. PAUL, Minn.",
+            "source_name": "PRNewsWire",
+            "date": "Mon, 25 Mar 2024 09:00:00 -0400",
+            "topics": [
+                "PressRelease"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "MMM"
+            ]
+        },
+        {
+            "news_url": "https://www.fool.com/investing/2024/03/23/3m-raises-guidance-and-changes-ceo-is-the-stock-a/",
+            "image_url": "https://cdn.snapi.dev/images/v1/y/r/urlhttps3a2f2fgfoolcdncom2fedi-2338468.jpg",
+            "title": "3M Raises Guidance and Changes CEO: Is the Stock a Buy?",
+            "text": "3M appears to be progressing on its restructuring activities, which will likely lead to lower-than-expected stranded costs after Solventum is spun off. The stock is attractively valued, but the sustainability of its dividend is open to question, and there are early indications that its management reshuffle won't lead to dramatic changes.",
+            "source_name": "The Motley Fool",
+            "date": "Sat, 23 Mar 2024 03:31:00 -0400",
+            "topics": [
+                "earnings",
+                "CEO"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "MMM"
+            ]
+        },
+        {
+            "news_url": "https://investorplace.com/2024/03/3m-stock-alert-7-things-to-know-about-the-upcoming-3m-healthcare-spinoff/",
+            "image_url": "https://cdn.snapi.dev/images/v1/x/g/mmm1600-2338088.jpg",
+            "title": "3M Stock Alert: 7 Things to Know About the Upcoming 3M Healthcare Spinoff",
+            "text": "Investors are eagerly awaiting the upcoming launch of 3M's (NYSE: MMM ) healthcare spinoff, Solventum. What does it mean for 3M stock?",
+            "source_name": "InvestorPlace",
+            "date": "Fri, 22 Mar 2024 14:42:10 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "MMM"
+            ]
+        }
+    ],
+    "total_pages": 834
+}

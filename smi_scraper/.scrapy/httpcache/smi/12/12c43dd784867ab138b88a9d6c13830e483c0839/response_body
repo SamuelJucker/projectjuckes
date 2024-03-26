@@ -1,0 +1,53 @@
+{
+    "data": [
+        {
+            "news_url": "https://www.globenewswire.com/news-release/2023/07/17/2705615/0/en/Novan-Enters-into-Agreement-to-Sell-Substantially-All-of-its-Assets-including-Berdazimer-Gel-10-3-SB206-and-Files-for-Chapter-11-Protection.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/d/f/press16-1973814.jpg",
+            "title": "Novan Enters into Agreement to Sell Substantially All of its Assets, including Berdazimer Gel, 10.3% (SB206), and Files for Chapter 11 Protection",
+            "text": "\u2013 The Company and Ligand Pharmaceuticals sign agreement to sell substantially all of Novan's assets under Section 363 of the U.S. Bankruptcy Code, along with a commitment from Ligand to fund $15 million in debtor-in-possession financing \u2013",
+            "source_name": "GlobeNewsWire",
+            "date": "Mon, 17 Jul 2023 08:45:00 -0400",
+            "topics": [
+                "PressRelease"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "NOVN"
+            ]
+        },
+        {
+            "news_url": "https://www.globenewswire.com/news-release/2023/06/05/2682015/0/en/Novan-to-Provide-Corporate-Update-at-its-2023-Annual-Meeting-of-Stockholders.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/v/e/press12-1920733.jpg",
+            "title": "Novan to Provide Corporate Update at its 2023 Annual Meeting of Stockholders",
+            "text": "DURHAM, N.C., June 05, 2023 (GLOBE NEWSWIRE) -- Novan, Inc. (\u201cthe Company\u201d or \u201cNovan\u201d) (Nasdaq: NOVN), today announced that it will host a live audio webcast of the Company's 2023 Annual Meeting of Stockholders (\u201cASM\u201d) being held on Tuesday, June 6, 2023 at 9:30 a.m. Eastern Time in a virtual format.",
+            "source_name": "GlobeNewsWire",
+            "date": "Mon, 05 Jun 2023 09:00:00 -0400",
+            "topics": [
+                "PressRelease"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "NOVN"
+            ]
+        },
+        {
+            "news_url": "https://www.globenewswire.com/news-release/2023/05/31/2679792/0/en/Novan-Focuses-Strategic-Direction-and-Announces-Restructuring.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/z/s/press14-1915199.jpg",
+            "title": "Novan Focuses Strategic Direction and Announces Restructuring",
+            "text": "\u2013 Company directing resources on the potential approval of berdazimer gel, 10.3% (SB206) for molluscum contagiosum \u2013",
+            "source_name": "GlobeNewsWire",
+            "date": "Wed, 31 May 2023 16:05:00 -0400",
+            "topics": [
+                "PressRelease"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "NOVN"
+            ]
+        }
+    ],
+    "total_pages": 46
+}

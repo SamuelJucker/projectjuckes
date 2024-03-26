@@ -1,0 +1,13 @@
+Content-Encoding: gzip
+Expires: 0
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Security-Policy-Report-Only: default-src 'none'; block-all-mixed-content; connect-src 'self'; frame-ancestors 'none'; img-src 'self' https://s.yimg.com; media-src 'none'; script-src 'self' 'nonce-iHCmTrBAQA25XGmgEbTBH0NeuKuwsHOX' https://s.yimg.com; style-src 'self' 'nonce-iHCmTrBAQA25XGmgEbTBH0NeuKuwsHOX' https://s.yimg.com; font-src 'self'; object-src 'none'; frame-src 'none'; report-uri https://csp.yahoo.com/beacon/csp?src=guce
+Server: guce
+X-Xss-Protection: 1; mode=block
+Pragma: no-cache
+X-Frame-Options: DENY
+Referrer-Policy: strict-origin-when-cross-origin
+Date: Tue, 26 Mar 2024 02:09:04 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8

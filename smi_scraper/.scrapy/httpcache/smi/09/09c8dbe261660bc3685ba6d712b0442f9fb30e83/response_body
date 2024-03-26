@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "news_url": "https://www.zacks.com/stock/news/2245113/ubs-group-ubs-to-undergo-two-stress-tests-in-24-by-finma?cid=CS-STOCKNEWSAPI-FT-analyst_blog|company_news_-_finance_sector-2245113",
+            "image_url": "https://cdn.snapi.dev/images/v1/o/l/default127-2338070.jpg",
+            "title": "UBS Group (UBS) to Undergo Two Stress Tests in '24 by FINMA",
+            "text": "Amid heightening concerns over its increased balance sheet, UBS Group (UBS) is subjected to two stress tests this year along with around 40 reviews by FINMA.",
+            "source_name": "Zacks Investment Research",
+            "date": "Fri, 22 Mar 2024 14:41:03 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "UBS"
+            ]
+        },
+        {
+            "news_url": "https://www.businessinsider.com/pre-election-tax-strategies-trump-biden-estate-planning-capital-gains-2024-3",
+            "image_url": "https://cdn.snapi.dev/images/v1/m/h/65fb14e42417f97b87cdbd56format-2333741.jpg",
+            "title": "4 tax strategies for investors, regardless of who wins the presidency, according to UBS",
+            "text": "There are four strategies investors can adopt to manage tax liabilities, regardless of who wins the 2024 election, according to UBS. The firm says investors should diversify their tax statements and defer capital gains for as long as they can.",
+            "source_name": "Business Insider",
+            "date": "Wed, 20 Mar 2024 13:35:08 -0400",
+            "topics": [
+                "paywall"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "UBS"
+            ]
+        },
+        {
+            "news_url": "https://www.proactiveinvestors.com/companies/news/1043638?SNAPI",
+            "image_url": "https://cdn.snapi.dev/images/v1/s/g/shutterstock-1783291358-2333590.jpg",
+            "title": "Big tech rally on borrowed time - UBS",
+            "text": "Decelerating earnings momentum and improvements in the wider market could mean the end of a rally by big technology stocks is coming into view, UBS analysts have warned. Though Apple Inc, Amazon.com Inc, Alphabet Inc's Google, Meta Platforms\u00a0Inc, Microsoft Corp and NVIDIA Corp (NASDAQ:NVDA, ETR:NVD)\u00a0have enjoyed earnings momentum in recent months, such growth will likely slow this year, the bank said in a note.",
+            "source_name": "Proactive Investors",
+            "date": "Wed, 20 Mar 2024 12:45:11 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "UBS"
+            ]
+        }
+    ],
+    "total_pages": 484
+}

@@ -1,0 +1,18 @@
+Content-Length: 586
+Content-Type: text/html;charset=utf-8
+Server: CloudFront
+Date: Tue, 26 Mar 2024 02:15:59 GMT
+X-Datadome: protected
+Accept-Ch: Sec-CH-UA,Sec-CH-UA-Mobile,Sec-CH-UA-Platform,Sec-CH-UA-Arch,Sec-CH-UA-Full-Version-List,Sec-CH-UA-Model,Sec-CH-Device-Memory
+Charset: utf-8
+Cache-Control: max-age=0, private, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Access-Control-Allow-Credentials: true
+Access-Control-Expose-Headers: x-dd-b, x-set-cookie
+Access-Control-Allow-Origin: *
+X-Datadome-Cid: AHrlqAAAAAMApKuMICayQsoA1Aj9og==
+Set-Cookie: datadome=S6ibOPmxxebvwBd8YTQMzX6D6E2iyH3YXz6J0niK6tyuUw2UH6Bcj2GBSAmK2Z85wwzWg2Vk7yforRopmzDMRpgCP1rX8ZE85AV43CV84EhJLImCT7GuPyMObrb55AMs; Max-Age=31536000; Domain=.marketwatch.com; Path=/; Secure; SameSite=Lax
+X-Cache: LambdaGeneratedResponse from cloudfront
+Via: 1.1 9568a708c8ab21597698ebe7dce6c42e.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: FRA2-C1
+X-Amz-Cf-Id: ZGlNvs0c3m15u5DqoqJyBGKMnDu3QR9om8EpOeAy5342mhHuN8qKzg==

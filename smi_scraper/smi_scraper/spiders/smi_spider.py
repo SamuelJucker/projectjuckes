@@ -8,15 +8,19 @@ import os
 import requests  # Added for get_page function
 from bs4 import BeautifulSoup  # Added for get_page function
 import pandas as pd  # Added for data manipulation
+import yfinance as yf  # Import yfinance library
 
 class SmiSpider(scrapy.Spider):
     name = 'smi'
 
     # Define your API key as a variable
+    
     api_key = 'bzffsumg9ygmd0nx8am7ubd70n0vbsq3slofzhsc'
 
     def start_requests(self):
-        smi_tickers = ['NESN.SW', 'AAPL', 'UHR', 'TSLA']  # Replace with your desired tickers
+        # Get the list of SMI tickers (replace with your actual method)
+        smi_tickers = ['ABBN', 'ADEN', 'ALC', 'CSGN', 'GEBN', 'GIVN', 'BAER', 'LHN', 'LONN', 'NESN', 'NOVN', 'PGHN', 'CFR', 'ROG', 'SLHN', 'SREN', 'SCMN', 'SGSN', 'UBSG', 'ZURN','AAPL', 'UHR', 'TSLA','AXP', 'AMGN', 'AAPL', 'BA', 'CAT', 'CSCO', 'CVX', 'GS', 'HD', 'HON', 'IBM', 'INTC', 'JNJ', 'KO', 'JPM', 'MCD', 'MMM', 'MRK', 'MSFT', 'NKE', 'PG', 'CRM', 'TRV', 'UNH', 'VZ', 'V', 'WBA', 'WMT', 'DIS']
+
         for ticker in smi_tickers:
             stock_data_url = f'https://finance.yahoo.com/quote/{ticker}'
             news_api_url = f'https://stocknewsapi.com/api/v1?tickers={ticker}&items=3&page=1&token={self.api_key}'
@@ -50,8 +54,19 @@ class SmiSpider(scrapy.Spider):
             # ... (extract other relevant data using CSS selectors)
         }
 
+        # Retrieve important information from yfinance API
+        yf_data = yf.Ticker(ticker).info
+        important_info = {
+            'market_cap': yf_data.get('marketCap'),
+            'dividend_yield': yf_data.get('dividendYield'),
+            # ... (add other important information you want to extract)
+        }
+
+        # Combine stock data and yfinance information
+        combined_data = {**stock_data, **important_info}
+
         # Save data to text file
-        self.save_to_text_file(ticker, stock_data, 'stock_data')
+        self.save_to_text_file(ticker, combined_data, 'stock_data')
 
         driver.quit()
 
@@ -85,7 +100,7 @@ class SmiSpider(scrapy.Spider):
             if data_type == 'news':
                 for article in data:
                     f.write(f"Title: {article['title']}\n")
-                    f.write(f"Link: {article['link']}\n")
+                    f.write(f"Link:              {article['link']}\n")
                     f.write(f"Timestamp: {article['timestamp']}\n\n")
             else:
                 for key, value in data.items():

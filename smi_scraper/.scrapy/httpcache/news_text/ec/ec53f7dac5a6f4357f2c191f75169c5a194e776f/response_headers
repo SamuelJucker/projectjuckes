@@ -1,0 +1,23 @@
+Content-Length: 0
+Date: Tue, 26 Mar 2024 02:16:32 GMT
+Server: Apache
+Set-Cookie: PHPSESSID=nbu63dea7vjlj6dis9b378kick; path=/; secure; HttpOnly
+Set-Cookie: user_session=a52819c1ca0de72217e4508b3a1afec4; expires=Tue, 02-Apr-2024 02:16:32 GMT; Max-Age=604800; path=/; domain=www.zacks.com; secure
+Set-Cookie: visid_incap_2944342=sFv5yViWStaQUUTQqiDeM/8vAmYAAAAAQUIPAAAAAAC8Egf3a/S6vC4mu4al/KGK; expires=Tue, 25 Mar 2025 22:20:38 GMT; HttpOnly; path=/; Domain=.zacks.com; Secure; SameSite=None
+Set-Cookie: incap_ses_1686_2944342=APbVZrueq2jk1Z3dHOBlF/8vAmYAAAAAGoPHrtX38324xOluOK8GrA==; path=/; Domain=.zacks.com; Secure; SameSite=None
+Expires: Mon, 25 Mar 2024 21:17:03 -0500
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Surrogate-Key: article-data
+Last-Modified: Mon, 25 Mar 2024 21:16:03 -0500
+Location: https://www.zacks.com/stock/news/2244951/mercks-mrk-keytruda-lynparza-combo-fails-2nd-lung-cancer-study?cid=CS-STOCKNEWSAPI-FT-analyst_blog%7Ccompany_news_-_medical_sector-2244951
+Server-Id: zacks-cde-1
+Content-Type: text/html; charset=UTF-8
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=63072000;
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src https:; script-src blob: https: 'unsafe-eval' 'unsafe-inline';media-src blob: https:; worker-src blob: https://*.zacks.com; style-src https: 'unsafe-inline'; img-src https: data: 'self'; frame-ancestors 'self' zacks.com *.zacks.com;
+Referrer-Policy: no-referrer-when-downgrade
+X-Cdn: Imperva
+X-Iinfo: 61-26761373-26751017 SNNy RT(1711419357868 33345) q(0 0 0 -1) r(3 3) U11

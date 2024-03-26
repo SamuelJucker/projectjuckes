@@ -1,0 +1,62 @@
+{
+    "data": [
+        {
+            "news_url": "https://seekingalpha.com/article/4680323-dividend-stock-watch-list-lannys-april-2024-edition",
+            "image_url": "https://cdn.snapi.dev/images/v1/4/4/444g-2340530.jpg",
+            "title": "Dividend Stock Watch List: Lanny's April 2024 Edition",
+            "text": "The stock market continues to edge up, setting new all-time highs for what feels like \u2013 every other day, at this point. Interest rates have held steady for 6 months now, and the high-yield savings rates \u201ccould\u201d be at their peak.",
+            "source_name": "Seeking Alpha",
+            "date": "Mon, 25 Mar 2024 14:35:00 -0400",
+            "topics": [
+                "dividend",
+                "paylimitwall"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "CVX",
+                "JNJ",
+                "SBUX"
+            ]
+        },
+        {
+            "news_url": "https://investorplace.com/2024/03/hot-stocks-the-3-best-opportunities-for-investing-in-the-sp-500/",
+            "image_url": "https://cdn.snapi.dev/images/v1/k/m/sp500-spy-1600-1024x576-2340141.png",
+            "title": "Hot Stocks: The 3 Best Opportunities for Investing in the S&P 500",
+            "text": "The jury's in, and the verdict is a resounding yes to interest rate cuts by the Federal Reserve this year. Following the announcement on Wednesday, all three major indexes rallied to record highs, with the\u00a0S&P 500\u00a0blowing past the\u00a05,200 level for the first time.",
+            "source_name": "InvestorPlace",
+            "date": "Mon, 25 Mar 2024 10:47:11 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMZN",
+                "JNJ",
+                "KO"
+            ]
+        },
+        {
+            "news_url": "https://investorplace.com/2024/03/7-dividend-darlings-to-scoop-up-every-time-the-market-dips/",
+            "image_url": "https://cdn.snapi.dev/images/v1/v/i/dividends-2338920.jpg",
+            "title": "7 Dividend Darlings to Scoop Up Every Time the Market Dips",
+            "text": "Dividend investing is one of the prominent ways to build wealth. Whether you are building a retirement portfolio, want to leave a legacy, or are looking to use the dividend income to cover your expenses, the right dividend stocks can make it possible.",
+            "source_name": "InvestorPlace",
+            "date": "Sun, 24 Mar 2024 10:13:20 -0400",
+            "topics": [
+                "dividend"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "JNJ",
+                "KO",
+                "MCD",
+                "ORCL",
+                "PEP",
+                "RIO",
+                "XOM"
+            ]
+        }
+    ],
+    "total_pages": 1661
+}

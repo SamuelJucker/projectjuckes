@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "news_url": "https://www.prnewswire.com/news-releases/cisco-announces-new-multifunctional-collaboration-devices-for-hybrid-work-302098240.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/0/a/press6-2340164.jpg",
+            "title": "Cisco Announces New Multifunctional Collaboration Devices for Hybrid Work",
+            "text": "News Summary: New Cisco Devices bring seamless collaboration to every corner of the office, providing customers with increased choice and flexibility in how they work. Cisco Board Pro G2 provides optimized camera views and AI-powered collaboration features that enhance hybrid teamwork.",
+            "source_name": "PRNewsWire",
+            "date": "Mon, 25 Mar 2024 11:00:00 -0400",
+            "topics": [
+                "PressRelease"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "CSCO"
+            ]
+        },
+        {
+            "news_url": "https://www.fool.com/investing/2024/03/22/is-cisco-stock-a-buy/",
+            "image_url": "https://cdn.snapi.dev/images/v1/y/8/cos3-2337298.jpg",
+            "title": "Is Cisco Stock a Buy?",
+            "text": "Cisco acquired Splunk to strengthen its cybersecurity solutions and grow SaaS revenue. The company's subscription income is important to offsetting the cyclical nature of its hardware sales.",
+            "source_name": "The Motley Fool",
+            "date": "Fri, 22 Mar 2024 08:15:00 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "CSCO"
+            ]
+        },
+        {
+            "news_url": "https://www.zacks.com/stock/news/2244456/cisco-systems-csco-outperforms-broader-market-what-you-need-to-know?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_6-2244456",
+            "image_url": "https://cdn.snapi.dev/images/v1/1/4/default24-2336575.jpg",
+            "title": "Cisco Systems (CSCO) Outperforms Broader Market: What You Need to Know",
+            "text": "Cisco Systems (CSCO) concluded the recent trading session at $49.88, signifying a +0.67% move from its prior day's close.",
+            "source_name": "Zacks Investment Research",
+            "date": "Thu, 21 Mar 2024 18:51:18 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "CSCO"
+            ]
+        }
+    ],
+    "total_pages": 953
+}

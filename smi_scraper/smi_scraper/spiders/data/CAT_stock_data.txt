@@ -1,0 +1,4 @@
+Ticker: CAT
+price: None
+market_cap: 178832130048
+dividend_yield: 0.0146

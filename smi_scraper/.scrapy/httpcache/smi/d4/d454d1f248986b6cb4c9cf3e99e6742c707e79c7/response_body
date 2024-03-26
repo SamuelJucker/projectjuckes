@@ -1,0 +1,56 @@
+{
+    "data": [
+        {
+            "news_url": "https://seekingalpha.com/article/4679237-bridger-aerospace-group-holdings-inc-baer-q4-2023-earnings-call-transcript",
+            "image_url": "https://cdn.snapi.dev/images/v1/t/v/transcript18-2332075.jpg",
+            "title": "Bridger Aerospace Group Holdings, Inc. (BAER) Q4 2023 Earnings Call Transcript",
+            "text": "Bridger Aerospace Group Holdings, Inc. (BAER) Q4 2023 Earnings Call Transcript",
+            "source_name": "Seeking Alpha",
+            "date": "Tue, 19 Mar 2024 18:30:20 -0400",
+            "topics": [
+                "earnings",
+                "CallScript",
+                "paylimitwall"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "BAER"
+            ]
+        },
+        {
+            "news_url": "https://www.globenewswire.com/news-release/2024/03/19/2848977/0/en/Bridger-Aerospace-Announces-Record-2023-Results-Provides-Outlook-for-2024-Growth.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/o/c/press16-2331826.jpg",
+            "title": "Bridger Aerospace Announces Record 2023 Results; Provides Outlook for 2024 Growth",
+            "text": "BELGRADE, Mont., March 19, 2024 (GLOBE NEWSWIRE) -- Bridger Aerospace Group Holdings, Inc. (\u201cBridger\u201d, \u201cthe Company\u201d or \u201cBridger Aerospace\u201d), (NASDAQ: BAER, BAERW), one of the nation's largest aerial firefighting companies, today reported results for the fourth quarter and fiscal year ended December 31, 2023. The Company also reiterated its 2024 revenue and adjusted EBITDA guidance.",
+            "source_name": "GlobeNewsWire",
+            "date": "Tue, 19 Mar 2024 16:15:00 -0400",
+            "topics": [
+                "PressRelease"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "BAER"
+            ]
+        },
+        {
+            "news_url": "https://www.globenewswire.com/news-release/2024/03/13/2845396/0/en/Bridger-Aerospace-Announces-Schedule-for-its-Fourth-Quarter-2023-Earnings-Release-and-Conference-Call.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/0/v/conf9-2321980.jpg",
+            "title": "Bridger Aerospace Announces Schedule for its Fourth Quarter 2023 Earnings Release and Conference Call",
+            "text": "BELGRADE, Mont., March 13, 2024 (GLOBE NEWSWIRE) -- Bridger Aerospace Group Holdings, Inc. (\u201cBridger\u201d or \u201cBridger Aerospace\u201d), (NASDAQ: BAER, BAERW), one of the nation's largest aerial firefighting companies, today announced that it will release financial results for the fourth quarter and fiscal year ended December 31, 2023 on Tuesday, March 19, 2024 after the market close.",
+            "source_name": "GlobeNewsWire",
+            "date": "Wed, 13 Mar 2024 08:04:00 -0400",
+            "topics": [
+                "earnings",
+                "Conference"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "BAER"
+            ]
+        }
+    ],
+    "total_pages": 12
+}

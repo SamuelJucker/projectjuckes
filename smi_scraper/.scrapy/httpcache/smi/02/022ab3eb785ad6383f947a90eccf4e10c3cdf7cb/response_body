@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "news_url": "https://www.zacks.com/stock/news/2239760/alcon-s-alc-new-launch-strengthens-iol-innovation-leadership?cid=CS-STOCKNEWSAPI-FT-analyst_blog|company_news_-_medical_sector-2239760",
+            "image_url": "https://cdn.snapi.dev/images/v1/h/r/594-2322274.jpg",
+            "title": "Alcon's (ALC) New Launch Strengthens IOL Innovation Leadership",
+            "text": "Alcon's (ALC) Clareon platform is available in India in two PCIOL technologies, PanOptix and Vivity.",
+            "source_name": "Zacks Investment Research",
+            "date": "Wed, 13 Mar 2024 09:35:13 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "ALC"
+            ]
+        },
+        {
+            "news_url": "https://www.zacks.com/stock/news/2237830/alcon-s-alc-vivity-edof-iol-achieves-one-million-milestone?cid=CS-STOCKNEWSAPI-FT-analyst_blog|company_news_-_medical_sector-2237830",
+            "image_url": "https://cdn.snapi.dev/images/v1/l/5/608-2315311.jpg",
+            "title": "Alcon's (ALC) Vivity EDOF IOL Achieves One Million Milestone",
+            "text": "Alcon's (ALC) Vivity features the first-of-its-kind, patented wavefront-shaping technology, which simplifies presbyopia correction for surgeons and patients.",
+            "source_name": "Zacks Investment Research",
+            "date": "Fri, 08 Mar 2024 08:36:04 -0500",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "ALC"
+            ]
+        },
+        {
+            "news_url": "https://www.businesswire.com/news/home/20240306570437/en/Vivity-the-World%E2%80%99s-Leading-EDOF-IOL-Reaches-One-Million-Milestone/",
+            "image_url": "https://cdn.snapi.dev/images/v1/4/d/press8-2311058.jpg",
+            "title": "Vivity, the World's Leading EDOF IOL, Reaches One Million Milestone",
+            "text": "TORONTO--(BUSINESS WIRE)--Alcon (SIX/NYSE: ALC), the global leader in eye care dedicated to helping people see brilliantly, today proudly announces AcrySof\u00ae IQ Vivity\u00ae and Clareon\u00ae Vivity extended depth of focus (EDOF) intraocular lens (IOL) has surpassed more than one million implants worldwide. Vivity is the most implanted EDOF IOL globally.1* Alcon is the global leader in IOLs\u2014every four seconds an eye is implanted with an Alcon IOL\u2014and continues to innovate in this space to address patients.",
+            "source_name": "Business Wire",
+            "date": "Wed, 06 Mar 2024 09:55:00 -0500",
+            "topics": [
+                "PressRelease"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "ALC"
+            ]
+        }
+    ],
+    "total_pages": 59
+}

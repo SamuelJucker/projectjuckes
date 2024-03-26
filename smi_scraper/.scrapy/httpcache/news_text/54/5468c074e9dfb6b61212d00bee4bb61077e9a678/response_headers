@@ -1,0 +1,19 @@
+Content-Length: 423
+Content-Type: text/plain; charset=UTF-8
+X-Powered-By: Fenrir
+Last-Modified: Mon, 25 Mar 2024 15:38:00 GMT
+Cache-Control: public, max-age=120
+X-Frame-Options: sameorigin
+Etag: W/"4da-18e762c4ab0"
+Content-Encoding: gzip
+Via: 1.1 varnish, 1.1 varnish
+X-Country-Code: NL
+Accept-Ranges: bytes
+Date: Tue, 26 Mar 2024 01:51:22 GMT
+Age: 217
+X-Served-By: cache-iad-kcgs7200086-IAD, cache-ams21039-AMS
+X-Cache: MISS, HIT
+X-Cache-Hits: 0, 1
+X-Timer: S1711417883.834354,VS0,VE1
+Vary: Accept-Encoding, Authorization, Fastly-SSL, X-Device, X-Continent-Code, X-Piano-Disabled, X-User-Logged-In, X-User-Has-Access, X-Is-Sponsored-Country, X-ABTest-exes2, X-ABTest-napi, X-ABTest-pb_5, X-ABTest-short
+Strict-Transport-Security: max-age=31536000

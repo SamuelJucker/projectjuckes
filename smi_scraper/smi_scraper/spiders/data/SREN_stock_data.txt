@@ -1,0 +1,4 @@
+Ticker: SREN
+price: None
+market_cap: None
+dividend_yield: None

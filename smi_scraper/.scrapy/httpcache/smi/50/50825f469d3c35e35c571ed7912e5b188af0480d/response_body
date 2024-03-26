@@ -1,0 +1,57 @@
+{
+    "data": [
+        {
+            "news_url": "https://investorplace.com/2024/03/3-top-dividend-growth-stocks-to-buy-right-now/",
+            "image_url": "https://cdn.snapi.dev/images/v1/a/f/dividends-moneybag-2340361.jpg",
+            "title": "3 Top Dividend Growth Stocks to Buy Right Now",
+            "text": "Dividend growth stocks can generate long-term wealth because of a compounding effect and price appreciation. As the weather starts warming, savvy investors should start to think about some of these top names that benefit from spring temperatures.",
+            "source_name": "InvestorPlace",
+            "date": "Mon, 25 Mar 2024 12:46:25 -0400",
+            "topics": [
+                "dividend",
+                "StocksToWatch"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "HRL",
+                "KO",
+                "STZ"
+            ]
+        },
+        {
+            "news_url": "https://investorplace.com/2024/03/hot-stocks-the-3-best-opportunities-for-investing-in-the-sp-500/",
+            "image_url": "https://cdn.snapi.dev/images/v1/k/m/sp500-spy-1600-1024x576-2340141.png",
+            "title": "Hot Stocks: The 3 Best Opportunities for Investing in the S&P 500",
+            "text": "The jury's in, and the verdict is a resounding yes to interest rate cuts by the Federal Reserve this year. Following the announcement on Wednesday, all three major indexes rallied to record highs, with the\u00a0S&P 500\u00a0blowing past the\u00a05,200 level for the first time.",
+            "source_name": "InvestorPlace",
+            "date": "Mon, 25 Mar 2024 10:47:11 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMZN",
+                "JNJ",
+                "KO"
+            ]
+        },
+        {
+            "news_url": "https://www.fool.com/investing/2024/03/25/like-chipotle-stock-split-love-dividend-stocks-buy/",
+            "image_url": "https://cdn.snapi.dev/images/v1/f/j/chi92-2339229.jpg",
+            "title": "If You Like Chipotle and Its Stock Split, Then You'll Love These 2 Dividend Stocks",
+            "text": "Chipotle is a high-flying stock, but the growth is still there. McDonald's is on track to become a Dividend King by 2026.",
+            "source_name": "The Motley Fool",
+            "date": "Mon, 25 Mar 2024 06:15:00 -0400",
+            "topics": [
+                "dividend"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "KO",
+                "MCD"
+            ]
+        }
+    ],
+    "total_pages": 1153
+}

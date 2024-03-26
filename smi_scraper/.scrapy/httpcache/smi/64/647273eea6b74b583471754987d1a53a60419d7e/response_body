@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "news_url": "https://www.zacks.com/stock/news/2245686/amgen-amgn-ascends-while-market-falls-some-facts-to-note?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_6v1-2245686",
+            "image_url": "https://cdn.snapi.dev/images/v1/r/e/default12-2340885.jpg",
+            "title": "Amgen (AMGN) Ascends While Market Falls: Some Facts to Note",
+            "text": "In the most recent trading session, Amgen (AMGN) closed at $280.82, indicating a +1.68% shift from the previous trading day.",
+            "source_name": "Zacks Investment Research",
+            "date": "Mon, 25 Mar 2024 18:55:19 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AMGN"
+            ]
+        },
+        {
+            "news_url": "https://investorplace.com/2024/03/buffetts-backdoor-buys-3-stocks-his-secret-portfolio-is-quietly-accumulating/",
+            "image_url": "https://cdn.snapi.dev/images/v1/t/6/warren-buffett-1600-2340411.jpg",
+            "title": "Buffett's Backdoor Buys: 3 Stocks His Secret Portfolio Is Quietly Accumulating",
+            "text": "Warren Buffett stocks can teach you a thing or two about investing. Warren Buffett's annual shareholders letter to Berkshire Hathaway (NYSE: BRK-A )(NYSE: BRK-B ) investors outlines what he's done the past year and often why.",
+            "source_name": "InvestorPlace",
+            "date": "Mon, 25 Mar 2024 13:05:25 -0400",
+            "topics": [
+                "wbuffett"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMGN",
+                "EXC",
+                "PFE"
+            ]
+        },
+        {
+            "news_url": "https://www.investors.com/etfs-and-funds/sectors/dow-jones-40000-sp500-is-coming-any-day-now-thanks-stocks-analysts-say/",
+            "image_url": "https://cdn.snapi.dev/images/v1/c/p/im-314714width620size152562574-2339603.jpg",
+            "title": "Dow 40,000 Is Coming Any Day Now Thanks To 8 Stocks, Analysts Say",
+            "text": "Dow Jones 40,000 is a milestone investors have eyed for years. But now a handful of stocks are posed to make it a reality.",
+            "source_name": "Investors Business Daily",
+            "date": "Mon, 25 Mar 2024 08:00:11 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AAPL",
+                "AMGN",
+                "AMZN",
+                "BA",
+                "CRM",
+                "MCD",
+                "MSFT",
+                "UNH"
+            ]
+        }
+    ],
+    "total_pages": 642
+}

@@ -1,0 +1,50 @@
+{
+    "data": [
+        {
+            "news_url": "https://www.youtube.com/watch?v=-eUmILur27Q",
+            "image_url": "https://cdn.snapi.dev/images/v1/1/t/why-intel-and-amd-may-not-need-china-2340839.jpg",
+            "title": "Why Intel and Amd may not need China",
+            "text": "David Riedel, Riedel Research President and Founder, joins 'Fast Money' to discuss China's crackdown on U.S. semis and what it means for U.S. chipmakers.",
+            "source_name": "CNBC Television",
+            "date": "Mon, 25 Mar 2024 18:12:06 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Video",
+            "tickers": [
+                "AMD",
+                "INTC"
+            ]
+        },
+        {
+            "news_url": "https://www.youtube.com/watch?v=Jq03oqBfjv8",
+            "image_url": "https://cdn.snapi.dev/images/v1/9/3/amd-intc-china-enforcing-us-chip-block-2340514.jpg",
+            "title": "AMD, INTC: China Enforcing U.S. Chip Block",
+            "text": "New guidelines could block AMD (AMD) and Intel (INTC) chips from government computers. Kevin Green discusses this as the Financial Times reports that China is enforcing a new rule blocking U.S. chips and it is also impacting Microsoft (MSFT) software.",
+            "source_name": "Schwab Network",
+            "date": "Mon, 25 Mar 2024 14:04:52 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Video",
+            "tickers": [
+                "AMD",
+                "INTC"
+            ]
+        },
+        {
+            "news_url": "https://www.youtube.com/watch?v=Jy6tdKZik-w",
+            "image_url": "https://cdn.snapi.dev/images/v1/s/r/china-blocks-intel-amd-chips-in-government-computers-report-says-2340504.jpg",
+            "title": "China blocks Intel, AMD chips in government computers, report says",
+            "text": "China has announced guidelines that could block American chipmakers Intel (INTC) and AMD (AMD) from operating in government servers within the country. The move comes as TikTok faces a potential ban in the United States.",
+            "source_name": "Yahoo Finance",
+            "date": "Mon, 25 Mar 2024 13:58:56 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Video",
+            "tickers": [
+                "AMD",
+                "INTC"
+            ]
+        }
+    ],
+    "total_pages": 2041
+}

@@ -1,0 +1,61 @@
+{
+    "data": [
+        {
+            "news_url": "https://investorplace.com/2024/03/3-blue-chip-gems-to-hold-tight-throughout-2024s-market-ride/",
+            "image_url": "https://cdn.snapi.dev/images/v1/n/4/blue-chip-closeup-2340809.jpg",
+            "title": "3 Blue-Chip Gems to Hold Tight Throughout 2024's Market Ride",
+            "text": "While there is no way to predict how the market will move, there is always a search for the holy grail. Some stocks have proved their strength that they can multiply returns.",
+            "source_name": "InvestorPlace",
+            "date": "Mon, 25 Mar 2024 17:45:48 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "CVX",
+                "META",
+                "MSFT"
+            ]
+        },
+        {
+            "news_url": "https://247wallst.com/investing/2024/03/25/the-stock-market-looks-shaky-6-safe-large-cap-dividend-blue-chips/?utm_source=snapi",
+            "image_url": "https://cdn.snapi.dev/images/v1/q/1/imageforentry5-w7z-2340558.jpg",
+            "title": "Stock Market Looking Dangerous \u2013 6 Safe Large Cap Dividend Blue Chips",
+            "text": "Since 1926, dividends have contributed approximately 32% of the total return for the S&P 500, while capital appreciations have contributed 68%. Therefore, sustainable dividend income and capital appreciation potential are essential for total return expectations.",
+            "source_name": "24/7 Wall Street",
+            "date": "Mon, 25 Mar 2024 14:37:59 -0400",
+            "topics": [
+                "dividend"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "CVX",
+                "KVUE",
+                "PAA",
+                "PFE",
+                "PM",
+                "T"
+            ]
+        },
+        {
+            "news_url": "https://seekingalpha.com/article/4680323-dividend-stock-watch-list-lannys-april-2024-edition",
+            "image_url": "https://cdn.snapi.dev/images/v1/4/4/444g-2340530.jpg",
+            "title": "Dividend Stock Watch List: Lanny's April 2024 Edition",
+            "text": "The stock market continues to edge up, setting new all-time highs for what feels like \u2013 every other day, at this point. Interest rates have held steady for 6 months now, and the high-yield savings rates \u201ccould\u201d be at their peak.",
+            "source_name": "Seeking Alpha",
+            "date": "Mon, 25 Mar 2024 14:35:00 -0400",
+            "topics": [
+                "dividend",
+                "paylimitwall"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "CVX",
+                "JNJ",
+                "SBUX"
+            ]
+        }
+    ],
+    "total_pages": 1699
+}

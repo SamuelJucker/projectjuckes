@@ -1,0 +1,55 @@
+{
+    "data": [
+        {
+            "news_url": "https://www.reuters.com/business/aerospace-defense/boeing-may-turn-outsider-ceo-tackle-spiraling-crisis-2024-03-26/",
+            "image_url": "https://cdn.snapi.dev/images/v1/h/g/fxm5jr5clnicno3ldqdthakqxa-2340972.jpg",
+            "title": "Boeing may turn to outsider CEO to tackle spiraling crisis",
+            "text": "Boeing's board has begun the search for a big-hitter to take the helm of the troubled planemaker following the turbulent tenure of CEO Dave Calhoun, with many industry executives and analysts predicting it will seek an outside remedy.",
+            "source_name": "Reuters",
+            "date": "Mon, 25 Mar 2024 20:29:57 -0400",
+            "topics": [
+                "CEO"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BA"
+            ]
+        },
+        {
+            "news_url": "https://www.youtube.com/watch?v=OH9cbaC0emA",
+            "image_url": "https://cdn.snapi.dev/images/v1/5/9/boeing-needs-to-get-act-together-amid-ceo-shake-up-says-allied-pilots-associations-dennis-tajer-2340966.jpg",
+            "title": "Boeing needs to get act together amid CEO shake-up, says Allied Pilots Association's Dennis Tajer",
+            "text": "Hosted by Brian Sullivan, \u201cLast Call\u201d is a fast-paced, entertaining business show that explores the intersection of money, culture and policy. Tune in Monday through Friday at 7 p.m.",
+            "source_name": "CNBC Television",
+            "date": "Mon, 25 Mar 2024 20:16:55 -0400",
+            "topics": [
+                "CEO"
+            ],
+            "sentiment": "Negative",
+            "type": "Video",
+            "tickers": [
+                "BA"
+            ]
+        },
+        {
+            "news_url": "https://www.youtube.com/watch?v=Kfzhd34wigc",
+            "image_url": "https://cdn.snapi.dev/images/v1/i/s/jim-cramer-on-the-shake-ups-at-disney-and-boeing-2340953.jpg",
+            "title": "Jim Cramer on the shake-ups at Disney and Boeing",
+            "text": "CNBC's Jim Cramer breaks down the market reaction to the headlines at Disney and Boeing.",
+            "source_name": "CNBC Television",
+            "date": "Mon, 25 Mar 2024 19:51:52 -0400",
+            "topics": [
+                "cramer",
+                "madmoney"
+            ],
+            "sentiment": "Neutral",
+            "type": "Video",
+            "tickers": [
+                "BA",
+                "DIS"
+            ]
+        }
+    ],
+    "total_pages": 3280
+}

@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "news_url": "https://seekingalpha.com/article/4680345-you-dont-have-to-take-excess-risk-to-beat-the-market",
+            "image_url": "https://cdn.snapi.dev/images/v1/c/0/image-976872938-2340823.jpg",
+            "title": "You Don't Have To Take Excess Risk To Beat The Market",
+            "text": "It is possible for retail investors to consistently beat the market by owning above-average blue chip dividend growth stocks. Hard work, research, and staying rational are key factors in outperforming the market. I highlight specific blue chip stocks, such as Booking Holdings, Zoetis, UnitedHealth Group, and Elevance Health, that have strong growth potential and attractive valuations.",
+            "source_name": "Seeking Alpha",
+            "date": "Mon, 25 Mar 2024 17:59:40 -0400",
+            "topics": [
+                "paylimitwall"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BKNG",
+                "EL",
+                "UNH",
+                "ZTS"
+            ]
+        },
+        {
+            "news_url": "https://www.youtube.com/watch?v=hMBkAavyT0o",
+            "image_url": "https://cdn.snapi.dev/images/v1/e/d/unitedhealth-unit-begins-processing-14-billion-medical-claims-backlog-after-hack-2339627.jpg",
+            "title": "UnitedHealth unit begins processing $14 billion medical claims backlog after hack",
+            "text": "CNBC's Joe Kernen reports on the lates news.",
+            "source_name": "CNBC Television",
+            "date": "Mon, 25 Mar 2024 08:05:08 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Video",
+            "tickers": [
+                "UNH"
+            ]
+        },
+        {
+            "news_url": "https://www.investors.com/etfs-and-funds/sectors/dow-jones-40000-sp500-is-coming-any-day-now-thanks-stocks-analysts-say/",
+            "image_url": "https://cdn.snapi.dev/images/v1/c/p/im-314714width620size152562574-2339603.jpg",
+            "title": "Dow 40,000 Is Coming Any Day Now Thanks To 8 Stocks, Analysts Say",
+            "text": "Dow Jones 40,000 is a milestone investors have eyed for years. But now a handful of stocks are posed to make it a reality.",
+            "source_name": "Investors Business Daily",
+            "date": "Mon, 25 Mar 2024 08:00:11 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AAPL",
+                "AMGN",
+                "AMZN",
+                "BA",
+                "CRM",
+                "MCD",
+                "MSFT",
+                "UNH"
+            ]
+        }
+    ],
+    "total_pages": 748
+}

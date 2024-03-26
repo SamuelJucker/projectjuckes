@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "news_url": "https://www.zacks.com/stock/news/2245428/is-it-worth-investing-in-p-g-pg-based-on-wall-street-s-bullish-views?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis|average_broker_rating-2245428",
+            "image_url": "https://cdn.snapi.dev/images/v1/o/b/default30-2340043.jpg",
+            "title": "Is It Worth Investing in P&G (PG) Based on Wall Street's Bullish Views?",
+            "text": "The recommendations of Wall Street analysts are often relied on by investors when deciding whether to buy, sell, or hold a stock. Media reports about these brokerage-firm-employed (or sell-side) analysts changing their ratings often affect a stock's price.",
+            "source_name": "Zacks Investment Research",
+            "date": "Mon, 25 Mar 2024 10:31:22 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "PG"
+            ]
+        },
+        {
+            "news_url": "https://www.fool.com/investing/2024/03/25/better-dividend-stock-procter-gamble-vs-walmart/",
+            "image_url": "https://cdn.snapi.dev/images/v1/a/t/urlhttps3a2f2fgfoolcdncom2fedi-2339492.jpg",
+            "title": "Better Dividend Stock: Procter & Gamble vs. Walmart",
+            "text": "Walmart has the edge on growth, but P&G pays a more generous dividend. P&G returns more cash to shareholders through dividends and stock buybacks.",
+            "source_name": "The Motley Fool",
+            "date": "Mon, 25 Mar 2024 07:35:00 -0400",
+            "topics": [
+                "dividend"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "PG",
+                "WMT"
+            ]
+        },
+        {
+            "news_url": "https://www.fool.com/investing/2024/03/23/magnificent-seven-dividend-stocks-microsoft-coke/",
+            "image_url": "https://cdn.snapi.dev/images/v1/u/r/urlhttps3a2f2fgfoolcdncom2fedi-2338634.jpg",
+            "title": "If There Was a \"Magnificent Seven\" for Dividend Stocks, These Would Be My Top Picks",
+            "text": "Microsoft, Procter & Gamble, Home Depot, and JPMorgan Chase use dividends as merely one way to reward shareholders. Coca-Cola, Chevron, and UPS are industry-leading businesses with high yields.",
+            "source_name": "The Motley Fool",
+            "date": "Sat, 23 Mar 2024 11:16:00 -0400",
+            "topics": [
+                "dividend"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "CVX",
+                "HD",
+                "JPM",
+                "KO",
+                "MSFT",
+                "PG",
+                "UPS"
+            ]
+        }
+    ],
+    "total_pages": 787
+}

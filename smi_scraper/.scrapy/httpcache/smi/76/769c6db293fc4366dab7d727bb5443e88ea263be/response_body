@@ -1,0 +1,53 @@
+{
+    "data": [
+        {
+            "news_url": "https://www.zacks.com/stock/news/2245657/why-visa-v-dipped-more-than-broader-market-today?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_6-2245657",
+            "image_url": "https://cdn.snapi.dev/images/v1/5/u/default29-2340862.jpg",
+            "title": "Why Visa (V) Dipped More Than Broader Market Today",
+            "text": "Visa (V) closed at $281.21 in the latest trading session, marking a -0.72% move from the prior day.",
+            "source_name": "Zacks Investment Research",
+            "date": "Mon, 25 Mar 2024 18:51:06 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "V"
+            ]
+        },
+        {
+            "news_url": "https://investorplace.com/2024/03/the-smart-money-shift-3-stocks-to-buy-as-billionaires-abandon-nvidia/",
+            "image_url": "https://cdn.snapi.dev/images/v1/a/g/hand-purple-growth-stocks-1600-2340664.jpg",
+            "title": "The Smart Money Shift: 3 Stocks to Buy as Billionaires Abandon Nvidia",
+            "text": "Money managers are dumping Nvidia (NASDAQ: NVDA ) stock. With shares already up 90% in 2024 and having more than tripled over the past year, the chipmaker is getting pricey.",
+            "source_name": "InvestorPlace",
+            "date": "Mon, 25 Mar 2024 16:00:00 -0400",
+            "topics": [
+                "StocksToWatch"
+            ],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "META",
+                "UBER",
+                "V"
+            ]
+        },
+        {
+            "news_url": "https://investorplace.com/2024/03/wall-streets-favorite-dow-stocks-3-names-that-could-make-you-filthy-rich/",
+            "image_url": "https://cdn.snapi.dev/images/v1/y/s/wealth-management1600-2339003.png",
+            "title": "Wall Street's Favorite Dow Stocks? 3 Names That Could Make You Filthy Rich",
+            "text": "The Dow Jones Industrial Average is the oldest stock market index, and one in which the highest quality companies invest. Although investors sometimes regard the Dow as a boring index, plenty of stocks brim with excitement.",
+            "source_name": "InvestorPlace",
+            "date": "Sun, 24 Mar 2024 17:00:00 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMZN",
+                "MSFT",
+                "V"
+            ]
+        }
+    ],
+    "total_pages": 1164
+}

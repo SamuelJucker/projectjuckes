@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "news_url": "https://seekingalpha.com/article/4679399-13-dividend-aristocrat-bargains-yielding-as-much-as-9-percent",
+            "image_url": "https://cdn.snapi.dev/images/v1/g/p/image-1174134141-2337102.jpg",
+            "title": "13 Dividend Aristocrat Bargains Yielding As Much As 9%",
+            "text": "Combining quality factors with free cash flow yield, considered the best value metric of the last 33 years, can potentially deliver exceptional investing ideas. Here's how to find the highest FCF yielding dividend aristocrats, with strong balance sheets, good risk management, and strongly growing businesses. They yield an average yield of 9%, a peak yield of 9%, 10% consensus growth, a BBB+ credit rating, and 28% fundamentally justified upside potential in the next year.",
+            "source_name": "Seeking Alpha",
+            "date": "Fri, 22 Mar 2024 07:00:00 -0400",
+            "topics": [
+                "dividend",
+                "paylimitwall"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "APD",
+                "AWR",
+                "CBU",
+                "CFR",
+                "CHRW",
+                "CINF",
+                "CVX",
+                "MO",
+                "NEE",
+                "NFG",
+                "NVS",
+                "ORI",
+                "PPG"
+            ]
+        },
+        {
+            "news_url": "https://www.zacks.com/stock/news/2234847/cullen-frost-cfr-rides-on-organic-growth-amid-cost-woes?cid=CS-STOCKNEWSAPI-FT-analyst_blog|zer_report_update-2234847",
+            "image_url": "https://cdn.snapi.dev/images/v1/e/m/2622-2304208.jpg",
+            "title": "Cullen/Frost (CFR) Rides On Organic Growth Amid Cost Woes",
+            "text": "Cullen/Frost's (CFR) strong loan book, solid NII and steady capital distribution activities are positives. However, the company is affected by mounting costs and an undiversified loan portfolio.",
+            "source_name": "Zacks Investment Research",
+            "date": "Fri, 01 Mar 2024 13:01:26 -0500",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "CFR"
+            ]
+        },
+        {
+            "news_url": "https://www.prnewswire.com/news-releases/frost-bank-again-receives-highest-number-of-greenwich-excellence-and-best-brand-awards-302067314.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/3/j/press20-2286159.jpg",
+            "title": "FROST BANK AGAIN RECEIVES HIGHEST NUMBER OF GREENWICH EXCELLENCE AND BEST BRAND AWARDS",
+            "text": "SAN ANTONIO , Feb. 21, 2024 /PRNewswire/ -- Frost Bank, one of the largest banks based in Texas, received 34 Greenwich Excellence and Best Brand Awards \u2013 the highest amount received nationwide for the eighth consecutive year \u2013 for providing superior service, advice and performance to small-business and middle-market banking clients. As in previous years, Frost is the only Texas-based bank to receive national recognition for \"Overall Satisfaction\" and \"Likelihood to Recommend\" in both the middle-market and small-business banking categories.",
+            "source_name": "PRNewsWire",
+            "date": "Wed, 21 Feb 2024 10:00:00 -0500",
+            "topics": [
+                "PressRelease"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "CFR"
+            ]
+        }
+    ],
+    "total_pages": 85
+}

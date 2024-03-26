@@ -1,0 +1,4 @@
+Ticker: CVX
+price: None
+market_cap: 290607038464
+dividend_yield: 0.0417

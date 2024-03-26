@@ -1,0 +1,20 @@
+Server: nginx
+Date: Tue, 26 Mar 2024 02:15:59 GMT
+Content-Type: text/plain; charset=utf-8
+Testuri: /robots.txt
+A-Cururi: [/robots.txt]
+A-Orig: yes
+A-Redis: successful
+A-Test-Now: yes
+A-Ts-Functions: 0.05355400 1711419359
+Set-Cookie: pymnts-device-identity=9bb23402-8b5d-4172-bec9-cc9b78ccfd32; expires=Thu, 31-Dec-2099 00:00:00 GMT; Max-Age=2390939041; path=/
+X-Hacker: If you're reading this, you should visit wpvip.com/careers and apply to join the fun, mention this header.
+X-Powered-By: WordPress VIP <https://wpvip.com>
+Host-Header: a9130478a60e5f9135f765b23f26593b
+X-Robots-Tag: noindex, follow
+Link: <https://www.pymnts.com/wp-json/>; rel="https://api.w.org/"
+X-Rq: ams6 96 185 443
+Content-Encoding: gzip
+Age: 0
+X-Cache: miss
+Accept-Ranges: bytes

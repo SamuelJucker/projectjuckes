@@ -1,0 +1,4 @@
+Ticker: MMM
+price: None
+market_cap: 59017261056
+dividend_yield: 0.057600003

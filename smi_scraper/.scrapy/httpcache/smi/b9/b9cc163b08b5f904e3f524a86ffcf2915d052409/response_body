@@ -1,0 +1,69 @@
+{
+    "data": [
+        {
+            "news_url": "https://www.zacks.com/stock/news/2245667/verizon-communications-vz-ascends-while-market-falls-some-facts-to-note?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_6-2245667",
+            "image_url": "https://cdn.snapi.dev/images/v1/z/d/default39-2340872.jpg",
+            "title": "Verizon Communications (VZ) Ascends While Market Falls: Some Facts to Note",
+            "text": "The latest trading day saw Verizon Communications (VZ) settling at $40.87, representing a +1.24% change from its previous close.",
+            "source_name": "Zacks Investment Research",
+            "date": "Mon, 25 Mar 2024 18:51:18 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "VZ"
+            ]
+        },
+        {
+            "news_url": "https://seekingalpha.com/article/4680334-4-fortune-500-industry-leaders-boast-ideal-march-dividends",
+            "image_url": "https://cdn.snapi.dev/images/v1/i/m/image-95520783-2340759.jpg",
+            "title": "4 Fortune 500 Industry Leaders Boast Ideal March Dividends",
+            "text": "The Summer 2023 edition of Fortune Magazine revealed 500 biggest U.S. companies by-revenue. Dogcatcher's quest to sniff out the best dividend buys focused on 68 industry leaders, or IL, using YCharts 3/22/24 data. Those 68 industry leaders were segmented into 21 business sectors, ranging (alphabetically) from apparel to wholesalers. 3 of the 68 were private or foreign-exchange-listed firms not tracked by YCharts, leaving 65 listed. 58 dividend yielding stocks led those 68 industry leaders and ranged 0.14% to 8.10% in annual yield and ranged -11.57% to 22.59% in broker-estimated one-year target-price upsides.",
+            "source_name": "Seeking Alpha",
+            "date": "Mon, 25 Mar 2024 16:14:12 -0400",
+            "topics": [
+                "dividend",
+                "paylimitwall"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BKR",
+                "COP",
+                "CVS",
+                "DOW",
+                "ET",
+                "F",
+                "IBM",
+                "MAN",
+                "MET",
+                "PFE",
+                "PM",
+                "SBUX",
+                "SO",
+                "UPS",
+                "VZ",
+                "XOM"
+            ]
+        },
+        {
+            "news_url": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-google-googl-stock/",
+            "image_url": "https://cdn.snapi.dev/images/v1/a/i/urlhttps3a2f2fgfoolcdncom2fedi-2340569.jpg",
+            "title": "Dow Jones Giant Verizon, Google Stock Near New Buy Points",
+            "text": "Dow Jones leader Verizon and Magnificent Seven member Google stock are approaching buy points in today's stock market.",
+            "source_name": "Investors Business Daily",
+            "date": "Mon, 25 Mar 2024 13:55:11 -0400",
+            "topics": [
+                "paywall"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "GOOG",
+                "GOOGL",
+                "VZ"
+            ]
+        }
+    ],
+    "total_pages": 1690
+}

@@ -1,0 +1,12 @@
+Content-Length: 0
+Date: Tue, 26 Mar 2024 01:56:00 GMT
+Strict-Transport-Security: max-age=31536000
+Server: ATS
+Cache-Control: no-store
+Content-Type: text/html; charset=utf-8
+Content-Language: en
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Location: https://guce.yahoo.com/consent?brandType=nonEu&gcrumb=CJjGdZw&done=https%3A%2F%2Ffinance.yahoo.com%2Fquote%2FCAT
+Set-Cookie: GUCS=AQiYxnWc; Max-Age=1800; Domain=.yahoo.com; Path=/; Secure

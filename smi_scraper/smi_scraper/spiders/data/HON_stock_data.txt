@@ -1,0 +1,4 @@
+Ticker: HON
+price: None
+market_cap: 130912436224
+dividend_yield: 0.0218

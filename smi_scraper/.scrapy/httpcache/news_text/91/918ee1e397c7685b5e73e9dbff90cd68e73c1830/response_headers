@@ -1,0 +1,24 @@
+Date: Tue, 26 Mar 2024 02:15:59 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Cookie
+Cf-Edge-Cache: cache,platform=wordpress
+Cross-Origin-Embedder-Policy: unsafe-none
+Cross-Origin-Opener-Policy: same-origin
+X-Frame-Options: SAMEORIGIN
+X-Frame-Options: SAMEORIGIN
+X-Distributor: yes
+Link: <https://investorplace.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://investorplace.com/wp-json/wp/v2/posts/2770400>; rel="alternate"; type="application/json"
+Link: <https://investorplace.com/?p=2770400>; rel=shortlink
+Expires: Tue, 26 Mar 2024 03:15:59 GMT
+Cache-Control: max-age=3600
+X-Php-Expires: 60m
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Cf-Cache-Status: EXPIRED
+Last-Modified: Tue, 26 Mar 2024 00:19:38 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Server: cloudflare
+Cf-Ray: 86a3a2d2ded40bf5-AMS

@@ -1,0 +1,16 @@
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 26 Mar 2024 02:07:16 GMT
+X-Amz-Replication-Status: COMPLETED
+Last-Modified: Tue, 26 Mar 2024 02:06:15 GMT
+Etag: W/"dec970ccc3f8437c71840ed5a5c37111"
+X-Amz-Server-Side-Encryption: AES256
+Cache-Control: public,max-age=15,s-maxage=15
+X-Amz-Version-Id: qw41.6ZLLcDgZaq9ou4dcePC.kYYbxTn
+Server: AmazonS3
+Content-Encoding: gzip
+Vary: Accept-Encoding
+X-Cache: Error from cloudfront
+Via: 1.1 aa4673eb0527fb06f7940307fecfc1b6.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: FRA60-P10
+X-Amz-Cf-Id: IhKC8UKPrTfnQAu4xbvtbjs8W949F9oAqm8g95VPnf8wzZV13aMjbQ==
+Age: 525

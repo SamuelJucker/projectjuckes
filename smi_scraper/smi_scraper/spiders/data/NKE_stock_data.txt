@@ -1,0 +1,4 @@
+Ticker: NKE
+price: None
+market_cap: 142209368064
+dividend_yield: 0.015800001

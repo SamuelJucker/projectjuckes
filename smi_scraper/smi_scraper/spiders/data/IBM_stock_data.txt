@@ -1,0 +1,4 @@
+Ticker: IBM
+price: None
+market_cap: 174951497728
+dividend_yield: 0.0352

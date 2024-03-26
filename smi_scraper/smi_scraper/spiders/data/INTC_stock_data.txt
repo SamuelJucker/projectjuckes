@@ -1,0 +1,4 @@
+Ticker: INTC
+price: None
+market_cap: 176857251840
+dividend_yield: 0.0117999995

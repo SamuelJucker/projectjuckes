@@ -1,0 +1,47 @@
+{
+    "data": [
+        {
+            "news_url": "https://www.cnbc.com/2024/03/26/microsoft-picks-pavan-davuluri-to-lead-windows-and-surface.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/m/0/107378396-1708968455887-gettyi-2341002.jpeg",
+            "title": "Microsoft picks company veteran Pavan Davuluri to lead Windows and Surface",
+            "text": "Microsoft said Monday it has selected company veteran Pavan Davuluri to run its groups working on the Windows operating system and Surface devices.",
+            "source_name": "CNBC",
+            "date": "Mon, 25 Mar 2024 21:50:53 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "MSFT"
+            ]
+        },
+        {
+            "news_url": "https://www.reuters.com/technology/microsoft-names-new-windows-surface-chief-verge-reports-2024-03-26/",
+            "image_url": "https://cdn.snapi.dev/images/v1/c/f/wygnd3duzfp4nkbgfq4bvwfgzy-2340973.jpg",
+            "title": "Microsoft names new Windows and Surface chief, The Verge reports",
+            "text": "Microsoft had named Pavan Davuluri as its new chief for Windows and Surface, The Verge reported on Monday, citing an internal memo.",
+            "source_name": "Reuters",
+            "date": "Mon, 25 Mar 2024 20:11:37 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "MSFT"
+            ]
+        },
+        {
+            "news_url": "https://www.zacks.com/stock/news/2245663/microsoft-msft-falls-more-steeply-than-broader-market-what-investors-need-to-know?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_6-2245663",
+            "image_url": "https://cdn.snapi.dev/images/v1/b/n/default35-2340867.jpg",
+            "title": "Microsoft (MSFT) Falls More Steeply Than Broader Market: What Investors Need to Know",
+            "text": "Microsoft (MSFT) reachead $422.86 at the closing of the latest trading day, reflecting a -1.37% change compared to its last close.",
+            "source_name": "Zacks Investment Research",
+            "date": "Mon, 25 Mar 2024 18:51:12 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "MSFT"
+            ]
+        }
+    ],
+    "total_pages": 3334
+}

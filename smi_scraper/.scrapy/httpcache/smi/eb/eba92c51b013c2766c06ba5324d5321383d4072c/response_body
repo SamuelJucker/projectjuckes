@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "news_url": "https://www.marketwatch.com/story/salesforce-looks-to-reinvent-itself-again-with-its-fledgling-ai-business-35638ac4",
+            "image_url": "https://cdn.snapi.dev/images/v1/f/e/im-44140653size177777777777777-2340774.jpg",
+            "title": "Salesforce looks to reinvent itself again with its fledgling AI business",
+            "text": "Salesforce Inc. helped usher in the software-as-a-service and cloud eras. Can it pull off a trifecta with generative AI?",
+            "source_name": "Market Watch",
+            "date": "Mon, 25 Mar 2024 17:11:00 -0400",
+            "topics": [
+                "paylimitwall"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "CRM"
+            ]
+        },
+        {
+            "news_url": "https://www.investors.com/etfs-and-funds/sectors/dow-jones-40000-sp500-is-coming-any-day-now-thanks-stocks-analysts-say/",
+            "image_url": "https://cdn.snapi.dev/images/v1/c/p/im-314714width620size152562574-2339603.jpg",
+            "title": "Dow 40,000 Is Coming Any Day Now Thanks To 8 Stocks, Analysts Say",
+            "text": "Dow Jones 40,000 is a milestone investors have eyed for years. But now a handful of stocks are posed to make it a reality.",
+            "source_name": "Investors Business Daily",
+            "date": "Mon, 25 Mar 2024 08:00:11 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AAPL",
+                "AMGN",
+                "AMZN",
+                "BA",
+                "CRM",
+                "MCD",
+                "MSFT",
+                "UNH"
+            ]
+        },
+        {
+            "news_url": "https://seekingalpha.com/article/4680047-salesforce-currently-overvalued-and-it-requires-a-lot-to-revert-it-downgrading-to-hold",
+            "image_url": "https://cdn.snapi.dev/images/v1/5/9/image-1229897073-2338466.jpg",
+            "title": "Salesforce: Currently Overvalued And It Requires A Lot To Revert It (Downgrading To Hold)",
+            "text": "Salesforce Valuation Update: Fair price at $305, slightly below current $306.08, indicating a hold rating with limited upside. Growth Plans and Market Position: Targeting $50B revenue by 2026, holds 12.3% market share in $282.20B SaaS market. Industry Outlook and Addressable Market: SaaS market expected to grow at 7.33% CAGR, Salesforce's addressable market to reach $952.56B by 2029.",
+            "source_name": "Seeking Alpha",
+            "date": "Sat, 23 Mar 2024 02:44:25 -0400",
+            "topics": [
+                "paylimitwall"
+            ],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "CRM"
+            ]
+        }
+    ],
+    "total_pages": 1305
+}
