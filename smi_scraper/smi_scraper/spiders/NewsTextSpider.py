@@ -8,6 +8,7 @@ import os
 import requests  # Added for get_page function
 from bs4 import BeautifulSoup  # Added for get_page function
 import pandas as pd  # Added for data manipulation
+#nothing
 
 class NewsTextSpider(scrapy.Spider):
     name = 'news_text'
