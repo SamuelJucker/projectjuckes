@@ -28,6 +28,7 @@ class NewsTextSpider(scrapy.Spider):
 
     def parse_article(self, response):
         ticker = response.meta['ticker']
+        #jj
 
         # Extract the article text using appropriate selectors
         article_text = response.css('p::text').getall()  # Adjust selector as needed
