@@ -1,12 +1,11 @@
-FROM python:3.10-slim
-
-WORKDIR /app
-
-COPY requirements.txt requirements.txt
-RUN pip install -r requirements.txt
-
+FROM python:3.12.1
+# Copy Files
+WORKDIR /usr/src/app
 COPY . .
+# Install
+ RUN pip install -r requirements.txt
+# RUN /bin/sh -c "pip install -r requirements.txt"
 
+# Docker Run Command
 EXPOSE 5000
-
-CMD ["python", "app.py"]
+CMD [ "python", "-m" , "flask", "run", "--host=0.0.0.0"]

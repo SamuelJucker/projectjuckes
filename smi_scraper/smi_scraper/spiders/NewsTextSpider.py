@@ -9,6 +9,8 @@ import requests  # Added for get_page function
 from bs4 import BeautifulSoup  # Added for get_page function
 import pandas as pd  # Added for data manipulation
 #nothing
+import pymongo
+from connection_strings import mongo_connection_string
 
 class NewsTextSpider(scrapy.Spider):
     name = 'news_text'
