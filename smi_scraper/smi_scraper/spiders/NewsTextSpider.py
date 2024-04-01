@@ -19,22 +19,26 @@ import json
 
 class NewsTextSpider(scrapy.Spider):
     name = 'news_text'
-
+    article_limit = 10  # Set the limit of articles to scrape
+    articles_processed = 0  # Initialize counter for processed articles
     def start_requests(self):
         news_data = self.read_news_data()
         for item in news_data:
-            # 'item' contains 'ticker', 'link', and 'providerPublishTime'
-            yield scrapy.Request(url=item['link'], callback=self.parse_article, meta={'ticker': item['ticker'], 'providerPublishTime': item['providerPublishTime']})
-
+            if self.articles_processed < self.article_limit:
+                yield scrapy.Request(url=item['link'], callback=self.parse_article, meta={'ticker': item['ticker'], 'providerPublishTime': item['providerPublishTime']})
+            else:
+                break  # 
     def parse_article(self, response):
+        self.articles_processed += 1  # Increment the counter for each processed article
         ticker = response.meta['ticker']
         provider_publish_time = response.meta['providerPublishTime']
 
         # Extract the article text using appropriate selectors
-        article_text = response.css('p::text').getall()  # Adjust selector as needed
+        provider_publish_time_safe = provider_publish_time.replace(':', '_')
 
-        # Save the article text to a file
-        filename = f'C:/Users/jucke/Desktop/Juckesam/projectjuckes/data/articles/{ticker}_article_{provider_publish_time}.txt'
+    # Extract the article text using appropriate selectors
+        article_text = response.css('p::text').getall()
+        filename = f'C:/Users/jucke/Desktop/Juckesam/projectjuckes/data/articles/{ticker}_article_{provider_publish_time_safe}.txt'
         os.makedirs(os.path.dirname(filename), exist_ok=True)
         with open(filename, 'w', encoding='utf-8') as f:
             f.write(' '.join(article_text))

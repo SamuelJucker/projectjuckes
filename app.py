@@ -1,7 +1,7 @@
 from flask import Flask, render_template, jsonify  # Import render_template
 import os
 import pymongo
-from smi_scraper.connectionstrings import mongo_connection_string
+from connectionstrings import mongo_connection_string
 
 
 # Connect to MongoDB

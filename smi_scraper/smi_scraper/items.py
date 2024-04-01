@@ -6,6 +6,11 @@
 import scrapy
 
 
+class NewsArticleItem(scrapy.Item):
+    ticker = scrapy.Field()
+    providerPublishTime = scrapy.Field()
+    articleText = scrapy.Field()
+
 class SmiScraperItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
