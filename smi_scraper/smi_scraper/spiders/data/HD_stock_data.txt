@@ -1,4 +1,0 @@
-Ticker: HD
-price: None
-market_cap: 386773680128
-dividend_yield: 0.0235

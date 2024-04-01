@@ -1,4 +1,0 @@
-Ticker: WMT
-price: None
-market_cap: 490493444096
-dividend_yield: 0.0137

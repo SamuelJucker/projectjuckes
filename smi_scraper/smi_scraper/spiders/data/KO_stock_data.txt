@@ -1,4 +1,0 @@
-Ticker: KO
-price: None
-market_cap: 260783652864
-dividend_yield: 0.0321

@@ -1,4 +1,0 @@
-Ticker: GS
-price: None
-market_cap: 132024205312
-dividend_yield: 0.0272

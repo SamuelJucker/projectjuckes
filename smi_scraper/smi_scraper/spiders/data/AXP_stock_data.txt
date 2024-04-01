@@ -1,4 +1,0 @@
-Ticker: AXP
-price: None
-market_cap: 162750414848
-dividend_yield: 0.0124

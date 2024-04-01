@@ -1,4 +1,0 @@
-Ticker: ALC
-price: None
-market_cap: 41154035712
-dividend_yield: 0.0033000002

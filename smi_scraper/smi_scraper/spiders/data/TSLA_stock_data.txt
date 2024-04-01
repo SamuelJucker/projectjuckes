@@ -1,4 +1,0 @@
-Ticker: TSLA
-price: None
-market_cap: 549790285824
-dividend_yield: None

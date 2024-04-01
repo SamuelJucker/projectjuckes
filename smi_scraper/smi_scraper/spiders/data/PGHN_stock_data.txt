@@ -1,4 +1,0 @@
-Ticker: PGHN
-price: None
-market_cap: None
-dividend_yield: None

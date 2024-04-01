@@ -1,4 +1,0 @@
-Ticker: CFR
-price: None
-market_cap: 6859681280
-dividend_yield: 0.0346

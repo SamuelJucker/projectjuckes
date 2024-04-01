@@ -1,4 +1,0 @@
-Ticker: BA
-price: None
-market_cap: 116785938432
-dividend_yield: None

@@ -1,4 +1,0 @@
-Ticker: VZ
-price: None
-market_cap: 171828510720
-dividend_yield: 0.0651

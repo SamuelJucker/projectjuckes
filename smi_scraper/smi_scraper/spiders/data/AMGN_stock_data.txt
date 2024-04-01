@@ -1,4 +1,0 @@
-Ticker: AMGN
-price: None
-market_cap: 150496772096
-dividend_yield: 0.032

@@ -1,4 +1,0 @@
-Ticker: PG
-price: None
-market_cap: 380388769792
-dividend_yield: 0.0235

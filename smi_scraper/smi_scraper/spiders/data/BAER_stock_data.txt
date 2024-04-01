@@ -1,4 +1,0 @@
-Ticker: BAER
-price: None
-market_cap: 229145696
-dividend_yield: None

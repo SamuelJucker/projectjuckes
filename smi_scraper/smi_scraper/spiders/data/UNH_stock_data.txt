@@ -1,4 +1,0 @@
-Ticker: UNH
-price: None
-market_cap: 451812065280
-dividend_yield: 0.0155

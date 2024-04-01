@@ -1,4 +1,0 @@
-Ticker: UBS
-price: None
-market_cap: 101078769664
-dividend_yield: 0.0111

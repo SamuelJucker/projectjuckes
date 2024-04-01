@@ -1,4 +1,0 @@
-Ticker: CRM
-price: None
-market_cap: 298537058304
-dividend_yield: 0.0052

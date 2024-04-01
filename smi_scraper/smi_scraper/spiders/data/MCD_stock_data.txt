@@ -1,4 +1,0 @@
-Ticker: MCD
-price: None
-market_cap: 204073549824
-dividend_yield: 0.024

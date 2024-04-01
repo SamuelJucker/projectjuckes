@@ -1,4 +1,0 @@
-Ticker: WBA
-price: None
-market_cap: 17790816256
-dividend_yield: 0.048600003

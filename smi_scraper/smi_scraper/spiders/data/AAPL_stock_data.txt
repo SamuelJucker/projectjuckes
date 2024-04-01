@@ -1,4 +1,0 @@
-Ticker: AAPL
-price: None
-market_cap: 2659861397504
-dividend_yield: 0.0056

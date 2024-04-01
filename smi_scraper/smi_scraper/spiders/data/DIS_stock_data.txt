@@ -1,4 +1,0 @@
-Ticker: DIS
-price: None
-market_cap: 218942046208
-dividend_yield: 0.0075

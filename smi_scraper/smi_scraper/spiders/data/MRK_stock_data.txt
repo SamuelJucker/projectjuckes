@@ -1,4 +1,0 @@
-Ticker: MRK
-price: None
-market_cap: 317365125120
-dividend_yield: 0.024600001

@@ -1,4 +1,0 @@
-Ticker: V
-price: None
-market_cap: 581834702848
-dividend_yield: 0.0074
