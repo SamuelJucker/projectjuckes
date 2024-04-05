@@ -1,0 +1,137 @@
+[33mcommit 680af47279a83cfe6a25ad5a71a300e6b1d1a3ab[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: SamuelJucker <133858501+Samilu02@users.noreply.github.com>
+Date:   Fri Apr 5 05:41:45 2024 +0200
+
+    Remove unwanted file from the repository
+
+[33mcommit 62c3110f5b380802b942633db0e26561bc83862e[m
+Author: SamuelJucker <133858501+Samilu02@users.noreply.github.com>
+Date:   Fri Apr 5 05:27:36 2024 +0200
+
+    Initial commit
+
+[33mcommit 9a3980abaa329aba0c6b6b6ea43820dda900864e[m
+Author: SamuelJucker <133858501+Samilu02@users.noreply.github.com>
+Date:   Fri Apr 5 05:14:21 2024 +0200
+
+    Untrack large ONNX model
+
+[33mcommit 4fa0fe9e44ab12d53bc9ab6aa88ec2ef09b90f2b[m
+Author: SamuelJucker <133858501+Samilu02@users.noreply.github.com>
+Date:   Fri Apr 5 05:09:49 2024 +0200
+
+    Stop tracking and ignore the large ONNX model
+
+[33mcommit 7875e1bc9131e53afc0493cc97d326d5909c7983[m
+Author: SamuelJucker <133858501+Samilu02@users.noreply.github.com>
+Date:   Fri Apr 5 05:03:02 2024 +0200
+
+    Ignore large ONNX model file
+
+[33mcommit 339f8990332e56c5ec2c52e1e6d6710fe80d4f05[m
+Author: SamuelJucker <133858501+Samilu02@users.noreply.github.com>
+Date:   Fri Apr 5 04:42:56 2024 +0200
+
+    Your commit message without the large file
+
+[33mcommit 01804b3005f1c69e8e3bb11bd1cc220a81a31971[m
+Author: SamuelJucker <133858501+Samilu02@users.noreply.github.com>
+Date:   Fri Apr 5 04:38:06 2024 +0200
+
+    Untrack large ONNX model from LFS
+
+[33mcommit 26dc095f0cbd7c6766ac3370da7eb9817c6e114f[m
+Author: SamuelJucker <133858501+Samilu02@users.noreply.github.com>
+Date:   Fri Apr 5 04:28:43 2024 +0200
+
+    Configure Git LFS for large files
+
+[33mcommit be0ad81ccc479fd039e3f07026b3d60f9682fd47[m
+Author: SamuelJucker <133858501+Samilu02@users.noreply.github.com>
+Date:   Fri Apr 5 04:23:08 2024 +0200
+
+    Updated submodule to latest commit
+
+[33mcommit 48b0cb81908dce12544aad4ffcc7c5f0aa650fdd[m
+Author: SamuelJucker <133858501+Samilu02@users.noreply.github.com>
+Date:   Fri Apr 5 04:10:49 2024 +0200
+
+    added files / working mostly
+
+[33mcommit 925a2d1f530c12d42107e497ca4320eda681b7a2[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: SamuelJucker <133858501+Samilu02@users.noreply.github.com>
+Date:   Mon Apr 1 17:14:06 2024 +0200
+
+    CHANGESDUH
+
+[33mcommit a2f6879980554b3d4873eedbc3d6fefc245f5317[m
+Author: Samilu02 <133858501+Samilu02@users.noreply.github.com>
+Date:   Mon Apr 1 15:03:54 2024 +0200
+
+    check
+
+[33mcommit aae40b76ddf26d154e2750aa01ef4427199ae5fa[m
+Author: Samilu02 <133858501+Samilu02@users.noreply.github.com>
+Date:   Mon Apr 1 15:03:45 2024 +0200
+
+    check
+
+[33mcommit 75a93b93eb0f7eadda068f04a26b0e918351e1bd[m
+Author: Samilu02 <133858501+Samilu02@users.noreply.github.com>
+Date:   Mon Apr 1 14:39:03 2024 +0200
+
+    update the README.md with link to contributing guide
+
+[33mcommit ed916fa081c6704f8e2e3eafd92f636f10e839bf[m
+Author: Samilu02 <133858501+Samilu02@users.noreply.github.com>
+Date:   Mon Apr 1 13:59:18 2024 +0200
+
+    check
+
+[33mcommit ec98718d4933a0dfe45cb3279c2c4e45acd6aa3c[m
+Author: Samilu02 <133858501+Samilu02@users.noreply.github.com>
+Date:   Mon Apr 1 13:54:19 2024 +0200
+
+    testest
+
+[33mcommit bd3afd5e86d4d6fca91337c6bc92191e1318776d[m[33m ([m[1;32mpending[m[33m)[m
+Author: Samilu02 <133858501+Samilu02@users.noreply.github.com>
+Date:   Mon Apr 1 13:14:59 2024 +0200
+
+    first commit
+
+[33mcommit e24bef1c8d3a7cd7f526e5f78a06e3952f2d5572[m
+Author: Samilu02 <133858501+Samilu02@users.noreply.github.com>
+Date:   Mon Apr 1 12:57:00 2024 +0200
+
+    first commit
+
+[33mcommit 1a83f5d54513b1439c5358cea3e5f3a5256f8e78[m
+Author: Samilu02 <133858501+Samilu02@users.noreply.github.com>
+Date:   Mon Apr 1 02:35:06 2024 +0200
+
+    multiple db changes
+
+[33mcommit fbfbf5b9286bb7289b0b20b4b86fa32b1f70bca6[m
+Author: Samilu02 <133858501+Samilu02@users.noreply.github.com>
+Date:   Tue Mar 26 03:31:40 2024 +0100
+
+    div
+
+[33mcommit 7b3707de9a8d675fd82a429500c3241b97ef7359[m[33m ([m[1;32mjuckesam[m[33m, [m[1;32mcurrent[m[33m)[m
+Author: Samilu02 <133858501+Samilu02@users.noreply.github.com>
+Date:   Tue Mar 26 03:22:36 2024 +0100
+
+    branch commit
+
+[33mcommit 1244ba81c92241258472616b21b29bda02046605[m
+Author: Samilu02 <133858501+Samilu02@users.noreply.github.com>
+Date:   Tue Mar 26 03:21:05 2024 +0100
+
+    stuff scraped
+
+[33mcommit b4cdf4e6050d05d738ccd4eafd39dd3bdd63d181[m
+Author: Samilu02 <133858501+Samilu02@users.noreply.github.com>
+Date:   Tue Mar 26 01:59:41 2024 +0100
+
+    first commit
