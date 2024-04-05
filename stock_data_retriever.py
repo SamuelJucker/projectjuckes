@@ -101,10 +101,11 @@ if __name__ == "__main__":
     ticker_filepath = os.path.join(data_directory, 'Ticker/SP500.csv')
     ticker_df = pd.read_csv(ticker_filepath)
     # tickers = ticker_df['Symbol'].tolist()
-    tickers = ticker_df['Symbol'].tolist()[:10]
+    tickers = ticker_df['Symbol'].tolist()[:500]
     
     
-    for ticker in tickers[10]:
+    # for ticker in tickers[500]:
+    for ticker in tickers:
         data = retrieve_data(ticker)
         if data:
             save_to_mongo(ticker, data)

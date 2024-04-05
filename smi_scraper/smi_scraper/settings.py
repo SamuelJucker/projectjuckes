@@ -68,7 +68,7 @@ DEFAULT_REQUEST_HEADERS = {
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-        "smi_scraper.pipelines.SmiScraperPipeline": 300,
+    'smi_scraper.pipelines.MongoDBPipeline': 300,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
@@ -96,5 +96,14 @@ LOG_FILE = 'C:\\Users\\jucke\\Desktop\\Juckesam\\projectjuckes\\smi_scraper\\dat
 REQUEST_FINGERPRINTER_IMPLEMENTATION = "2.7"
 TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor"
 FEED_EXPORT_ENCODING = "utf-8"
-FEED_FORMAT = 'txt'
-FEED_URI = 'C:\\Users\\jucke\\Desktop\\Juckesam\\projectjuckes\\smi_scraper\\data\\smi_data.txt'
+# FEED_FORMAT = 'txt'
+# FEED_URI = 'C:\\Users\\jucke\\Desktop\\Juckesam\\projectjuckes\\smi_scraper\\data\\smi_data.txt'
+
+FEEDS = {
+    'C:\\Users\\jucke\\Desktop\\Juckesam\\projectjuckes\\smi_scraper\\data\\articles.jl': {
+        'format': 'jsonlines',
+        'encoding': 'utf8',
+    },
+}
+
+
