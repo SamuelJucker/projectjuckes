@@ -85,9 +85,10 @@ def accumulate_data_from_files(ticker):
 if __name__ == "__main__":
     # Use argparse to parse the MongoDB URI from the command line
     parser = argparse.ArgumentParser(description='Process some integers.')
-    parser.add_argument('mongo_uri', type=str, help='MongoDB URI string')
+    parser.add_argument('-u', '--mongo_uri', type=str, default=os.getenv('MONGO_URI', 'your_default_mongo_uri'), help='MongoDB URI string')
     args = parser.parse_args()
-    
+
+    # mongo_connection_string = args.uri
     mongo_connection_string = args.mongo_uri
 
     ticker_filepath = os.path.join(data_directory, 'Ticker/SP500.csv')
