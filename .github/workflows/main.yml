@@ -23,7 +23,7 @@ jobs:
           
       - name: get tickernews
         working-directory: ./
-        run: python stock_data_retriever.py
+        run: python stock_data_retriever.py -u "${{secrets.MONGODB_URI}}"
       
       - name: scrape newsarticles and uploade them
         working-directory: ./smi_scraper/smi_scraper/spiders
