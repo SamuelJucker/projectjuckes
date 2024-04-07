@@ -26,8 +26,8 @@ with open('config.json', 'r') as config_file:
 
 # Set default values from the config file
 mongo_uri = config.get('MONGO_URI', 'default_mongo_uri')
-database_name = config.get('DATABASE_NAME', 'default_database_name')
-collection_name = config.get('COLLECTION_NAME', 'default_collection_name')
+database_name = config.get('DATABASE_NAME', 'juckesamDB')
+collection_name = config.get('COLLECTION_NAME', 'juckesamCollection')
 class NewsTextSpider(scrapy.Spider):
     name = 'news_text'
     article_limit = 99999
