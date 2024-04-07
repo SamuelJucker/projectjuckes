@@ -39,9 +39,9 @@ jobs:
 
 
       - name: build model
-        working-directory: model
+        working-directory: model/predict
         run: python ./tempvola1.py -u "${{secrets.MONGODB_URI}}"
 
       - name: upload model
-        working-directory: model
+        working-directory: model/predict
         run: python ./savetempvola.py -c "${{secrets.AZURE_STORAGE_CONNECTION_STRING}}"
