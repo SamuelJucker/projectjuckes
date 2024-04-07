@@ -91,7 +91,9 @@ if __name__ == "__main__":
     # mongo_connection_string = args.uri
     mongo_connection_string = args.mongo_uri
 
-    ticker_filepath = os.path.join(data_directory, 'Ticker/SP500.csv')
+    # ticker_filepath = os.path.join(data_directory, 'Ticker/SP500.csv')
+    ticker_filepath = 'SP500.csv'
+
     ticker_df = pd.read_csv(ticker_filepath)
     tickers = ticker_df['Symbol'].tolist()[:500]
     
