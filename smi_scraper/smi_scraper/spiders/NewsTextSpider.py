@@ -11,14 +11,23 @@ from bs4 import BeautifulSoup  # Added for get_page function
 import pandas as pd  # Added for data manipulation
 #nothing
 import pymongo
-from smi_scraper.connection_strings import mongo_connection_string,  database_name, collection_name
+# from smi_scraper.connection_strings import mongo_connection_string,  database_name, collection_name
 import datetime
 import json
+import argparse
 
 from smi_scraper.items import NewsArticleItem  # Ensure you have this item defined
 
 from pymongo import MongoClient
 
+
+with open('config.json', 'r') as config_file:
+    config = json.load(config_file)
+
+# Set default values from the config file
+mongo_uri = config.get('MONGO_URI', 'default_mongo_uri')
+database_name = config.get('DATABASE_NAME', 'default_database_name')
+collection_name = config.get('COLLECTION_NAME', 'default_collection_name')
 class NewsTextSpider(scrapy.Spider):
     name = 'news_text'
     article_limit = 99999
@@ -62,3 +71,13 @@ class NewsTextSpider(scrapy.Spider):
                                     'providerPublishTime': formatted_time
                                 })
         return news_data
+
+
+if __name__ == "__main__":
+    # Use argparse to parse the MongoDB URI from the command line
+    parser = argparse.ArgumentParser(description='Run the news text spider')
+    parser.add_argument('--mongo_uri', type=str, help='MongoDB URI string', default=mongo_uri)
+    args = parser.parse_args()
+    
+    # Override the default mongo_uri if provided in the command line
+    mongo_uri = args.mongo_uri
