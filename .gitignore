@@ -15,6 +15,7 @@ connectionstrings.py
 
 # Ignore everything in the data directory
 data/*
+!data/Ticker/SP500.csv
 # Ignore everything in the smi_scraper's data directory
 smi_scraper/data/*
 
