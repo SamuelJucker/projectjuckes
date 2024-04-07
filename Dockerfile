@@ -5,7 +5,7 @@ COPY backend/service.py backend/service.py
 COPY frontend/build frontend/build
 # Install
 COPY requirements.txt requirements.txt
-RUN pip install -r requirements.txt
+RUN pip install -r requirements.txt --no-binary=:twisted-iocpsupport:
 # RUN /bin/sh -c "pip install -r requirements.txt"
 
 # Docker Run Command
