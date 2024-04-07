@@ -25,9 +25,9 @@ jobs:
         working-directory: ./
         run: python stock_data_retriever.py
       
-      - name: scrape hikr data 
+      - name: scrape newsarticles and uploade them
         working-directory: ./smi_scraper/smi_scraper/spiders
-        run: scrapy crawl news_text -s CLOSESPIDER_PAGECOUNT=50 -o articles.jl
+        run: scrapy crawl news_text -s CLOSESPIDER_PAGECOUNT=50 -o articles.jl -u "${{secrets.MONGODB_URI}}"
       
       - name: upload article data to mongodb
         working-directory: ./smi_scraper/downloads
