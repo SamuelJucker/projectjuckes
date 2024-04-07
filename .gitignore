@@ -184,6 +184,6 @@ file.jl
 *.pkl
 .gitignore
 
-# model/Semantic/mdm-roberta-onnx/
+model/Semantic/mdm-roberta-onnx/
 model/Semantic/roberta-sequence-classification-9.onnx
 

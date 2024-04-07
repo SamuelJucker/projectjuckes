@@ -1,5 +1,0 @@
-import pandas as pd
-
-# Load the CSV file without specifying columns to see all columns
-df = pd.read_csv('C:/Users/jucke/Desktop/Juckesam/projectjuckes/data/Ticker/SP500.csv')
-print(df.columns)
