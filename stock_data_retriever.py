@@ -6,26 +6,13 @@ import numpy as np
 import pandas as pd
 import pymongo
 from pymongo.errors import PyMongoError
-from connectionstrings import mongo_connection_string, database_name, collection_name
-
-# import os
-# import json
-# import datetime
-# import yfinance as yf
-# import pymongo
-# from pymongo.errors import PyMongoError
-# from connectionstrings import mongo_connection_string, database_name, collection_name
-
-# Directory for saving files
-# import os
-# import json
-# import datetime
-# import yfinance as yf
-# import pymongo
-# from pymongo.errors import PyMongoError
+import argparse
 # from connectionstrings import mongo_connection_string, database_name, collection_name
 
 data_directory = "./data"
+
+database_name = os.getenv('DATABASE_NAME', 'juckesamDB')
+collection_name = os.getenv('COLLECTION_NAME', 'juckesamCollection')
 
 def retrieve_data(ticker, period="1y", interval="1d"):
     stock = yf.Ticker(ticker)
@@ -95,15 +82,18 @@ def accumulate_data_from_files(ticker):
                 accumulated_data.append(data)
     return accumulated_data
 
-
 if __name__ == "__main__":
+    # Use argparse to parse the MongoDB URI from the command line
+    parser = argparse.ArgumentParser(description='Process some integers.')
+    parser.add_argument('mongo_uri', type=str, help='MongoDB URI string')
+    args = parser.parse_args()
+    
+    mongo_connection_string = args.mongo_uri
+
     ticker_filepath = os.path.join(data_directory, 'Ticker/SP500.csv')
     ticker_df = pd.read_csv(ticker_filepath)
-    # tickers = ticker_df['Symbol'].tolist()
     tickers = ticker_df['Symbol'].tolist()[:500]
     
-    
-    # for ticker in tickers[500]:
     for ticker in tickers:
         data = retrieve_data(ticker)
         if data:
