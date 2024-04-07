@@ -1,0 +1,47 @@
+name: Scrape Data, build and upload Model
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: checkout repo content
+        uses: actions/checkout@v3 # checkout the repository content to github runner
+
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12.1' # install the python version needed
+          cache: 'pip'
+          
+      - name: install python packages
+        run: pip install -r requirements.txt
+          
+      - name: get tickernews
+        working-directory: ./
+        run: python stock_data_retriever.py
+      
+      - name: scrape hikr data 
+        working-directory: ./smi_scraper/smi_scraper/spiders
+        run: scrapy crawl news_text -s CLOSESPIDER_PAGECOUNT=50 -o articles.jl
+      
+      - name: upload article data to mongodb
+        working-directory: ./smi_scraper/downloads
+        run: python ./mongo_pipeline.py -c juckesamCollection -i ../processed_articles.jl -u "${{secrets.MONGODB_URI}}"
+
+      - name: upload finance data to mongodb
+        working-directory: ./smi_scraper/downloads
+        run: python ./mongofin2.py -c juckesamCollection -i -u "${{secrets.MONGODB_URI}}"
+
+
+      - name: build model
+        working-directory: model
+        run: python ./tempvola1.py -u "${{secrets.MONGODB_URI}}"
+
+      - name: upload model
+        working-directory: model
+        run: python ./savetempvola.py -c "${{secrets.AZURE_STORAGE_CONNECTION_STRING}}"
