@@ -6,77 +6,87 @@ from flask import Flask, jsonify, request, send_file
 from flask_cors import CORS
 from azure.storage.blob import BlobServiceClient
 import datetime
+import re
 
-# Load model function
+
+# Define a function to load the model from Azure Blob Storage
 def load_model_from_azure(azure_storage_connection_string):
     blob_service_client = BlobServiceClient.from_connection_string(azure_storage_connection_string)
-    container_name = None
+    container_name = "juckesamblobvola"
+    container_client = blob_service_client.get_container_client(container_name)
 
-    # Identify the latest container
-    print("Fetching blob containers...")
-    containers = blob_service_client.list_containers(include_metadata=True)
-    latest_suffix = 0
-    for container in containers:
-        if container['name'].startswith("juckesamblobv"):
-            parts = container['name'].split("-")
-            if len(parts) == 3 and parts[-1].isdigit() and int(parts[-1]) > latest_suffix:
-                latest_suffix = int(parts[-1])
-                container_name = container['name']
-    # container_name = "juckesamblobvola"
-    # blob_name = "model_senti.pkl"
-    # download_file_path = "temp_model_senti.pkl"
+    print(f"Fetching blobs from container: {container_name}")
+    blob_list = list(container_client.list_blobs())
     
-    if container_name:
-        container_client = blob_service_client.get_container_client(container_name)
-        print(f"Using container: {container_name}")
+    # Use a regular expression to find blobs that match the pattern 'model_senti_<number>.pkl'
+    model_blobs = {}
+    for blob in blob_list:
+        match = re.match(r"model_senti_(\d+)\.pkl", blob.name)
+        if match:
+            model_blobs[int(match.group(1))] = blob.name
+    
+    # Find the blob with the highest number
+    if model_blobs:
+        latest_blob_name = model_blobs[max(model_blobs)]
+        download_file_path = os.path.join("model", latest_blob_name)
+        Path("model").mkdir(parents=True, exist_ok=True)
+        print(f"Downloading the latest model blob to: {download_file_path}")
+
+        with open(download_file_path, "wb") as download_file:
+            download_file.write(container_client.download_blob(latest_blob_name).readall())
         
-        # Assume single blob with model in the container
-        blob_list = list(container_client.list_blobs())
-        if blob_list:
-            blob_name = blob_list[0].name
-            download_file_path = os.path.join("../model", blob_name)
-            print(f"Downloading blob to: {download_file_path}")
-
-            os.makedirs(os.path.dirname(download_file_path), exist_ok=True)
-            with open(download_file_path, "wb") as download_file:
-                download_file.write(container_client.download_blob(blob_name).readall())
-                
-            return download_file_path
+        return download_file_path
     else:
-        print("No suitable container found.")
-    return None
+        print("No model blobs found.")
+        return None
 
-# Init app
-app = Flask(__name__)
+
+app = Flask(__name__, static_url_path='', static_folder='../svelte-frontend/public')
 CORS(app)
-app = Flask(__name__, static_url_path='', static_folder='../frontend/build')
 
 # Load the model
 azure_storage_connection_string = os.getenv("AZURE_STORAGE_CONNECTION_STRING")
-model_file_path = load_model_from_azure(azure_storage_connection_string) if azure_storage_connection_string else "../model/GradientBoostingRegressor.pkl"
+model_file_path = load_model_from_azure(azure_storage_connection_string) if azure_storage_connection_string else "model/GradientBoostingRegressor.pkl"
 with open(model_file_path, 'rb') as fid:
     model = pickle.load(fid)
 
 @app.route("/")
 def indexPage():
-    return send_file("../frontend/build/index.html")
+    return send_file("../svelte-frontend/public/index.html")
+# return send_file("../frontend/public/index.html")
 
-@app.route("/api/predict")
+
+@app.route("/api/predict", methods=['GET'])
 def predict_route():
-    downhill = request.args.get('downhill', default=0, type=int)
-    uphill = request.args.get('uphill', default=0, type=int)
-    length = request.args.get('length', default=0, type=int)
+    # Retrieve query parameters
+    open_price = request.args.get('open', default=0.0, type=float)
+    bid = request.args.get('bid', default=0.0, type=float)
+    ask = request.args.get('ask', default=0.0, type=float)
+    marketCap = request.args.get('marketCap', default=0.0, type=float)
+    beta = request.args.get('beta', default=0.0, type=float)
+    trailingPE = request.args.get('trailingPE', default=0.0, type=float)
+    volume = request.args.get('volume', default=0.0, type=float)
+    modelResultPositive = request.args.get('modelResultPositive', default=0.5, type=float)
 
-    demo_input = [[downhill, uphill, length, 0]]
-    demo_df = pd.DataFrame(columns=['downhill', 'uphill', 'length_3d', 'max_elevation'], data=demo_input)
-    demo_output = model.predict(demo_df)
-    time = demo_output[0]
+    # Prepare the features dataframe as expected by the model
+    features = pd.DataFrame([{
+        'open': open_price, 
+        'bid': bid, 
+        'ask': ask, 
+        'marketCap': marketCap, 
+        'beta': beta, 
+        'trailingPE': trailingPE, 
+        'volume': volume, 
+        'modelResultPositive': modelResultPositive
+    }])
+    
+    # Predict
+    prediction = model.predict(features)
 
-    return jsonify({
-        'time': str(datetime.timedelta(seconds=time)),
-        'din33466': str(datetime.timedelta(seconds=din33466(uphill=uphill, downhill=downhill, distance=length))),
-        'sac': str(datetime.timedelta(seconds=sac(uphill=uphill, downhill=downhill, distance=length)))
-    })
+    # Return the prediction in JSON format
+    return jsonify({'prediction': prediction[0]})
 
 if __name__ == "__main__":
     app.run(debug=True)
+
+

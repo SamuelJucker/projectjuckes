@@ -5,11 +5,25 @@ import pickle
 import pandas as pd
 import argparse
 # from app2 import app, load_model
+# from service import load_model_from_azure
+# from your_module import load_model_from_azure
+
+
+azure_storage_connection_string = os.getenv("AZURE_STORAGE_CONNECTION_STRING")
+
 
 app = Flask(__name__)
 
 # Global variable to store the model
 model = None
+model_file_path = load_model_from_azure(azure_storage_connection_string)
+if model_file_path:
+    with open(model_file_path, 'rb') as fid:
+        model = pickle.load(fid)
+else:
+    print("Model could not be loaded from Azure.")
+    # Handle the case where the model is not loaded appropriately
+
 
 # Adjusted function to accept connection_string as an argument
 def download_model(connection_string, container_name, blob_name, download_file_path):
