@@ -8,10 +8,11 @@ from azure.storage.blob import BlobServiceClient
 import datetime
 import re
 
-
+print("Azure Storage Connection String:", os.getenv("AZURE_STORAGE_CONNECTION_STRING"))
 # Define a function to load the model from Azure Blob Storage
 def load_model_from_azure(azure_storage_connection_string):
     blob_service_client = BlobServiceClient.from_connection_string(azure_storage_connection_string)
+    print("Azure Storage Connection String:", os.getenv("AZURE_STORAGE_CONNECTION_STRING"))
     container_name = "juckesamblobvola"
     container_client = blob_service_client.get_container_client(container_name)
 
@@ -46,7 +47,8 @@ CORS(app)
 
 # Load the model
 azure_storage_connection_string = os.getenv("AZURE_STORAGE_CONNECTION_STRING")
-model_file_path = load_model_from_azure(azure_storage_connection_string) if azure_storage_connection_string else "model/GradientBoostingRegressor.pkl"
+# model_file_path = load_model_from_azure(azure_storage_connection_string) if azure_storage_connection_string else "model/senti_1.pkl"
+model_file_path = "model/model_senti_1.pkl"
 with open(model_file_path, 'rb') as fid:
     model = pickle.load(fid)
 

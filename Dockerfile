@@ -2,7 +2,7 @@ FROM python:3.12.1
 # Copy Files
 WORKDIR /usr/src/app
 COPY backend/service.py backend/service.py
-COPY frontend-svelte/public/build frontend/build
+COPY svelte-frontend/public/build svelte-frontend/public/build
 # Install
 COPY requirements.txt requirements.txt
 RUN pip install -r requirements.txt --no-binary=:twisted-iocpsupport:
@@ -18,7 +18,7 @@ CMD [ "python", "-m" , "flask", "run", "--host=0.0.0.0", "--port=80"]
 
 # Usage
 # docker build -t  .
-# docker run --name hikeplanner -e AZURE_STORAGE_CONNECTION_STRING='***' -p 9001:5000 -d juckesam/hikeplanner
+# docker run --name hikeplanner -e AZURE_STORAGE_CONNECTION_STRING='***' -p 9001:5000 -d juckesam/
 
 
 
